@@ -1,23 +1,27 @@
-# Site info
+---
 title: Friends of St Michaels Uganda
-url: 'https://fsmu.co.uk'
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+url: https://fsmu.co.uk
 tracking_code: 
-primary_color: '#38b0de'
-secondary_color: ''
-logo: ''
-
-# Site generation
-permalink: /blog/:year/:title/
-section: 'Blog'
+primary_color: "#38b0de"
+secondary_color: 
+logo: 
+permalink: "/blog/:year/:title/"
+section: Blog
 sass:
   sass_dir: assets/styles
   style: compressed
-  
 compress_html:
   clippings: all
   comments: all
   endings: all
   ignore:
-    envs: [development]
-    
-collections:
+    envs:
+    - development
