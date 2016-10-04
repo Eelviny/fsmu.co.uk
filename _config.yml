@@ -11,8 +11,8 @@ collections:
 url: https://fsmu.co.uk
 tracking_code: 
 primary_color: "#38b0de"
-secondary_color: ''
-logo: ''
+secondary_color: 
+logo: 
 permalink: "/blog/:year/:title/"
 section: Blog
 sass:
