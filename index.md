@@ -1,5 +1,6 @@
 ---
 title: Homepage
+layout: page
 ---
 
 # testing 123.
