@@ -1,17 +1,10 @@
----
 title: Friends of St Michaels Uganda
-timezone: UTC
-collections:
-  posts:
-    title: Posts
-    output: true
-  uploads:
-    title: Uploads
-    output: true
+timezone: BST
 url: https://fsmu.co.uk
 tracking_code: 
-primary_color: "#38b0de"
-secondary_color: 
+color:
+  primary: "#dd9933"
+  secondary: "#836953"
 logo: 
 permalink: "/blog/:year/:title/"
 section: Blog
