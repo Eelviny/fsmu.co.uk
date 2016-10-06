@@ -5,4 +5,4 @@ layout: homepage
 
 # testing 123.
 
-And another testing line!
+The source code for this website [can be found on Github](https://github.com/Eelviny/fsmu.co.uk). Enjoy!
