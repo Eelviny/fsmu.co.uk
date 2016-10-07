@@ -9,7 +9,6 @@ logo:
 permalink: "/blog/:year/:title/"
 section: Blog
 sass:
-  sass_dir: assets/styles
   style: compressed
 compress_html:
   clippings: all
