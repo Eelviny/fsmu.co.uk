@@ -1,9 +1,11 @@
 ---
 layout: default
+pictures:
 ---
 <div class="slick-slider">
-  <div style="background-image: url('http://fsmu.co.uk/wp-content/uploads/2014/12/DSCF3229.jpg'); height: 50vh; background-position: center; background-size: cover;'"></div>
-  <div style="background-image: url('http://fsmu.co.uk/wp-content/uploads/2014/12/DSCF3806.jpg'); height: 50vh; background-position: center; background-size: cover;"></div>
+  {% for picture in page.pictures %}
+  <div style="background-image: url('{{ site.url }}/assets/images/{{ picture }}'); height: 50vh; background-position: center; background-size: cover;'"></div>
+  {% endfor %}
 </div>
 <div class="row">
   {{ content }}

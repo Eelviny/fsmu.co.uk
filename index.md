@@ -1,6 +1,9 @@
 ---
 title: Homepage
 layout: homepage
+pictures:
+  - 'DSCF3229.jpg'
+  - 'DSCF3806.jpg'
 ---
 
 # testing 123.
