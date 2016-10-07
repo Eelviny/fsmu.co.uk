@@ -2,8 +2,9 @@
 title: Homepage
 layout: homepage
 pictures:
-  - 'DSCF3229.jpg'
-  - 'DSCF3806.jpg'
+- DSCF3229.jpg
+- DSCF3806.jpg
+- boys-running.jpg
 ---
 
 # testing 123.
