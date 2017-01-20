@@ -39,3 +39,12 @@
 @include foundation-top-bar;
 @include foundation-visibility-classes;
 @include foundation-float-classes;
+
+.focus-block {
+  color: white;
+  text-align: center;
+  background-color: {{ site.color.secondary }};
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+  border-radius: 0 0 15px 15px;
+  }
