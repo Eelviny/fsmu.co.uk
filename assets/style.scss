@@ -66,10 +66,16 @@
   border-radius: 0 0 15px 15px;
   }
   
-#fsmu-footer {
+.fsmu-footer {
+  color: white;
   background-color: {{ site.color.secondary }};
   padding-top: 4rem;
   padding-bottom: 4rem;
+  #social-bar {
+    background-color: #695442;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    }
   }
   
 
