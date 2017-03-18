@@ -1,0 +1,10 @@
+---
+layout: page
+title:
+items:
+---
+
+{% for item in items %}
+<h2>{{ item.title }}
+{{ item.content | strip_html | truncate: 30 }}
+{% endfor %}

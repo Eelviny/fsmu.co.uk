@@ -1,10 +1,12 @@
-<div class="fsmu-footer">
+<div id="fsmu-footer" style="margin-top: 4rem;">
   <div class="row">
     <div class="medium-4 columns">
       <p style="font-weight: bold;">PARTNERS OVER THE YEARS<p>
-      <p>1</p>
-      <p>2</p>
-      <p>3</p>
+      {% for item in site.data.partners %}
+      <a href="{{ item.site }}" title="{{ item.name }}" target="_blank">
+        <img src="/assets/images/{{ item.image }}" />
+      </a>
+      {% endfor %}
     </div>
     <div class="medium-4 columns">
       <p style="font-weight: bold;">NEWSLETTER<p>
@@ -13,8 +15,23 @@
       <p style="font-weight: bold;">SITEMAP<p>
     </div>
   </div>
-  <div id="social-bar">
-    <p>test</p>
+</div>
+<div id="fsmu-social-bar">
+  <div class="row columns">
+    {% for item in site.social %}
+    <a href="{{ item.site }}" target="_blank" title="{{ item.name }}">
+      <i class="fa fa-{{ item.icon }}"></i>
+    </a>
+    {% endfor %}
   </div>
 </div>
-
+<div id="fsmu-copyright">
+  <div class="row">
+    <div class="medium-6 columns">
+      <p>&#169; {{ site.time | date: '%Y' }} {{ site.title }}.</p>
+    </div>
+    <div class="medium-6 columns">
+      <p style="text-align: right;">Designed by <a href="https://eelviny.me" title="Eelviny" target="_blank">Elvin Luff</a></p>
+    </div>
+  </div>
+</div>

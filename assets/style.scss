@@ -47,6 +47,7 @@
   color: $white;
   a {
     color: $white;
+    text-transform: uppercase;
     &:hover {
       color: $light-gray;
     }
@@ -66,16 +67,32 @@
   border-radius: 0 0 15px 15px;
   }
   
-.fsmu-footer {
+#fsmu-footer {
   color: white;
   background-color: {{ site.color.secondary }};
   padding-top: 4rem;
-  padding-bottom: 4rem;
-  #social-bar {
-    background-color: #695442;
-    padding-top: 2rem;
-    padding-bottom: 2rem;
+  padding-bottom: 3rem;
+  img {
+    width:90%;
+    max-width: 400px;
+    padding-bottom: 10px
     }
+  }
+#fsmu-social-bar {
+  @extend #fsmu-footer;
+  background-color: #695442;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  text-align: center;
+  letter-spacing: 5px;
+  font-size: 200%;
+  }
+#fsmu-copyright {
+  @extend #fsmu-footer;
+  padding-top:1.5rem;
+  padding-bottom: 0.5rem;
+  font-size: 75%;
+  text-transform: uppercase;
   }
   
 

@@ -8,6 +8,38 @@ color:
 logo: 
 permalink: "/blog/:year/:title/"
 section: Blog
+
+social:
+  - name: Facebook
+    icon: facebook-f
+    site: 'https://www.facebook.com/fsmuganda'
+    
+  - name: Twitter
+    icon: twitter
+    site: 'https://twitter.com/fsmuganda'
+    
+  - name: Google Plus
+    icon: google-plus
+    site: 'https://plus.google.com/+FSMUcoukUganda/about'
+    
+  - name: Youtube
+    icon: youtube
+    site: 'https://www.youtube.com/channel/UCkbB9Bum0NuqVY5dBH1wEkw'
+    
+menu:
+  - name: Home
+    link: /
+  - name: About
+    link: /about
+  - name: Projects
+    link: /projects
+  - name: News
+    link: /news
+  - name: Gallery
+    link: /gallery
+  - name: Contact
+    link: contact
+
 sass:
   style: compressed
 compress_html:
@@ -17,3 +49,6 @@ compress_html:
   ignore:
     envs:
     - development
+    
+collections:
+  partners:
