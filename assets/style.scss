@@ -40,6 +40,18 @@
 @include foundation-visibility-classes;
 @include foundation-float-classes;
 
+#fsmu-title {
+  color: white;
+  font-family: 'Open Sans Condensed';
+  font-size: 200%;
+  padding-top: 1rem;
+  padding-bottom: 0.5rem;
+  img {
+    max-height: 40px;
+    max-width: 40px;
+    }
+  }
+
 #fsmu-top-bar {
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;

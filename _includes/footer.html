@@ -19,7 +19,7 @@
 <div id="fsmu-social-bar">
   <div class="row columns">
     {% for item in site.social %}
-    <a href="{{ item.site }}" target="_blank" title="{{ item.name }}">
+    <a href="{{ item.site }}" target="_blank" title="FSMU on {{ item.name }}">
       <i class="fa fa-{{ item.icon }}"></i>
     </a>
     {% endfor %}
@@ -28,10 +28,12 @@
 <div id="fsmu-copyright">
   <div class="row">
     <div class="medium-6 columns">
-      <p>&#169; {{ site.time | date: '%Y' }} {{ site.title }}.</p>
+      <p>&#169; {{ site.time | date: '%Y' }} | {{ site.title }}</p>
     </div>
     <div class="medium-6 columns">
-      <p style="text-align: right;">Designed by <a href="https://eelviny.me" title="Eelviny" target="_blank">Elvin Luff</a></p>
+      <p style="text-align: right;">
+        Developed by <a href="https://eelviny.me" title="Eelviny" target="_blank">Elvin Luff</a>
+      </p>
     </div>
   </div>
 </div>

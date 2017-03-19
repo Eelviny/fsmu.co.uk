@@ -1,4 +1,5 @@
-title: Friends of St Michaels Uganda
+title: "Friends of St Michaels Uganda"
+extitle: "Friends of St. Michael’s Girls Primary School Busembatia Uganda"
 timezone: BST
 url: http://fsmu.eelviny.me
 tracking_code: 
@@ -8,6 +9,7 @@ color:
 logo: 
 permalink: "/blog/:year/:title/"
 section: Blog
+excerpt_separator: <!--more-->
 
 social:
   - name: Facebook

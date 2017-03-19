@@ -3,20 +3,25 @@ layout: page
 section: 'News'
 ---
 <div class="row">
-  <div class="small-12 columns">
-  {% for post in site.posts %}
-    <div class="media-object">
-      <div class="media-object-section show-for-medium">
-        <div class="thumbnail">
-          <a href="{{ post.url }}"><img {%if post.image %}src="{{ post.image.url }}" alt="{{ post.image.alt }}"{% else %}src="/assets/images/icon256.png" alt="Site logo"{% endif %}" style="width: 150px; height:150px;"></a>
-        </div>
-      </div>
-      <div class="media-object-section main-section">
-        <h4 class="subheader float-right">{{ post.date | date: "%-d %B %Y" }}</h4>
-        <a href="{{ post.url }}"><h3>{{ post.title }}</h3></a>
-        <p class="text-justify">{{ post.excerpt | remove: '<p>' | remove: '</p>' }}&nbsp;<a href="{{ post.url }}">Read more <i class="fa fa-arrow-circle-right"></i></a></p>
-      </div>
+  <div class="medium-9 columns">
+    {% for post in site.posts %}
+    <div class="small-12 columns">
+      <h4 class="subheader float-right"></h4>
+      <a href="{{ post.url }}"><h3>{{ post.title }}</h3></a>
+      <p class="text-justify">{{ post.excerpt }}</p>
     </div>
-  {% endfor %}
+    <div class="medium-6 large-8 columns">
+      <p style="color: #8a8a8a">{{ post.date | date: "%-d %B %Y" }}</p>
+    </div>
+    <div class="medium-6 large-4 columns">    
+      <a href="{{ post.url }}" class="button float-right">Continue Reading <i class="fa fa-arrow-circle-right"></i></a>
+    </div>
+    {% endfor %}
+  </div>
+  <div class="medium-3 columns">
+    <p style="font-weight: bold;">RECENT POSTS</p>
+    {% for post in site.posts limit:5 %}
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    {% endfor %}
   </div>
 </div>
