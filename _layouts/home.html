@@ -4,7 +4,7 @@ pictures:
 ---
 <div class="slick-slider">
   {% for picture in page.pictures %}
-  <div style="background-image: url('{{ site.url }}/assets/images/{{ picture }}'); height: 60vh; background-position: center; background-size: cover;"></div>
+  <div style="background-image: url('/assets/images/{{ picture }}'); height: 60vh; background-position: center; background-size: cover;"></div>
   {% endfor %}
 </div>
 
