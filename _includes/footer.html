@@ -1,5 +1,5 @@
 <div id="fsmu-footer" style="margin-top: 4rem;">
-  <div class="row">
+  <div class="grid-x grid-container">
     <div class="medium-4 columns">
       <p style="font-weight: bold;">PARTNERS OVER THE YEARS<p>
       {% for item in site.data.partners %}
@@ -8,29 +8,37 @@
       </a>
       {% endfor %}
     </div>
-    <div class="medium-4 columns">
+    <div class="cell medium-4">
       <p style="font-weight: bold;">NEWSLETTER<p>
     </div>
-    <div class="medium-4 columns">
+    <div class="cell medium-4">
       <p style="font-weight: bold;">SITEMAP<p>
     </div>
   </div>
 </div>
+
 <div id="fsmu-social-bar">
-  <div class="row columns">
-    {% for item in site.social %}
-    <a href="{{ item.site }}" target="_blank" title="FSMU on {{ item.name }}">
-      <i class="fa fa-{{ item.icon }}"></i>
-    </a>
-    {% endfor %}
+  <div class="grid-x grid-container">
+    <div class="cell auto">
+    </div>
+    <div class="cell shrink">
+      <ul class="menu grid-container">
+        {% for item in site.social %}
+        <li><a href="{{ item.site }}" target="_blank" title="FSMU on {{ item.name }}"><i class="fa fa-{{ item.icon }}"></i></a></i>
+        {% endfor %}
+      </ul>
+    </div>
+    <div class="cell auto">
+    </div>
   </div>
 </div>
+
 <div id="fsmu-copyright">
-  <div class="row">
-    <div class="medium-6 columns">
+  <div class="grid-x grid-container">
+    <div class="cell medium-6">
       <p>&#169; {{ site.time | date: '%Y' }} | {{ site.title }}</p>
     </div>
-    <div class="medium-6 columns">
+    <div class="cell medium-6">
       <p style="text-align: right;">
         Developed by <a href="https://eelviny.me" title="Eelviny" target="_blank">Elvin Luff</a>
       </p>

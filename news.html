@@ -1,27 +1,23 @@
 ---
 layout: page
-section: 'News'
+title: 'News'
 ---
-<div class="row">
-  <div class="medium-9 columns">
+<div class="grid-x grid-margin-x">
+  <div class="cell medium-9">
     {% for post in site.posts %}
-    <div class="small-12 columns">
-      <h4 class="subheader float-right"></h4>
-      <a href="{{ post.url }}"><h3>{{ post.title }}</h3></a>
-      <p class="text-justify">{{ post.excerpt }}</p>
-    </div>
-    <div class="medium-6 large-8 columns">
-      <p style="color: #8a8a8a">{{ post.date | date: "%-d %B %Y" }}</p>
-    </div>
-    <div class="medium-6 large-4 columns">    
-      <a href="{{ post.url }}" class="button float-right">Continue Reading <i class="fa fa-arrow-circle-right"></i></a>
-    </div>
+    <a href="{{ post.url }}"><h3>{{ post.title }}</h3></a>
+    <p class="text-justify">{{ post.excerpt }}</p>
+    <p style="color: #8a8a8a">{{ post.date | date: "%-d %B %Y" }}</p>    
+    <a href="{{ post.url }}" class="button">Continue Reading <i class="fa fa-arrow-circle-right"></i></a>
+    <hr>
     {% endfor %}
   </div>
-  <div class="medium-3 columns">
+  <div class="cell medium-3">
     <p style="font-weight: bold;">RECENT POSTS</p>
+    <ul>
     {% for post in site.posts limit:5 %}
-      <a href="{{ post.url }}">{{ post.title }}</a>
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
+    </ul>
   </div>
 </div>

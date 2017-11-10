@@ -9,7 +9,10 @@ color:
 logo: 
 permalink: "/blog/:year/:title/"
 section: Blog
-excerpt_separator: <!--more-->
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
 
 social:
   - name: Facebook
@@ -43,7 +46,9 @@ menu:
     link: contact
 
 sass:
+  sass_dir: assets/styles
   style: compressed
+
 compress_html:
   clippings: all
   comments: all

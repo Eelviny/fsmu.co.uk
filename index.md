@@ -1,6 +1,6 @@
 ---
 title: Homepage
-layout: homepage
+layout: home
 pictures:
 - DSCF3229.jpg
 - DSCF3806.jpg

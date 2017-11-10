@@ -1,0 +1,46 @@
+---
+layout: default
+pictures:
+---
+<div class="slick-slider">
+  {% for picture in page.pictures %}
+  <div style="background-image: url('{{ site.url }}/assets/images/{{ picture }}'); height: 60vh; background-position: center; background-size: cover;"></div>
+  {% endfor %}
+</div>
+
+
+<div class="grid-container" style="padding-bottom: 4rem">
+  <div class="grid-x grid-margin-x focus-block" >
+    {% for i in (1..3) %}
+    <div class="cell medium-4">
+      <h3><i class="fa fa-child fa-2x"></i></h3>
+      <h3>PROJECTS</h3>
+      <p>There is always more work to do. Take a look at our past and present projects.</p>
+      <a href="http://google.com">See what we do</a>
+    </div>
+    {% endfor %}
+  </div>
+</div>
+
+<div class="grid-container" style="padding-bottom: 4rem">
+  <div class="grid-x">
+    <div class="cell large-8"> 
+    <h2 style="text-align: center">INFORMATION</h2>
+    {{ content }}
+    </div>
+    <div class="cell large-4">
+      <p>test</p>
+    </div>
+  </div>
+</div>
+
+<div class="grid-container">
+  <h2 class="text-center">NEWS</h2>
+  {% for post in site.posts %}
+  <a href="{{ post.url }}"><h3>{{ post.title }}</h3></a>
+  <p class="text-justify">{{ post.excerpt }}</p>
+  <p style="color: #8a8a8a">{{ post.date | date: "%-d %B %Y" }}</p>    
+  <a href="{{ post.url }}" class="button">Continue Reading <i class="fa fa-arrow-circle-right"></i></a>
+  <hr>
+  {% endfor %}
+</div>

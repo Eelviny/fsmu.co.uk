@@ -1,27 +1,24 @@
-<div style="background-color: {{site.color.secondary}}">
-  <div class="column row">
-    <h1 id="fsmu-title"><img src="/assets/images/smalllogo.png" /> | {{site.extitle}}</h1>
+<div style="background-color: {{ site.color.secondary }}">
+  <div class="grid-container">
+    <h1 id="fsmu-title"><img src="/assets/images/smalllogo.png" /> {{site.extitle}}</h1>
   </div>
-</div>
-<div style="padding: 2px"></div>
-
-<div class="title-bar" data-responsive-toggle="example-menu" data-hide-for="medium">
-  <button class="menu-icon" type="button" data-toggle></button>
 </div>
 
 <div id="fsmu-top-bar">
-<div class="top-bar row">
-  <div class="top-bar-left">
-    <ul class="dropdown menu" data-dropdown-menu>
-      {% for item in site.menu %}
-      <li><a href="{{ item.link }}" title="{{ item.name }}">{{ item.name }}</a></li>
-      {% endfor %}
-    </ul>
+  <div class="grid-x grid-container">
+    <div class="cell large-9 align-middle">
+      <div class="top-bar">
+        <div class="top-bar-left">
+          <ul class="dropdown menu" data-dropdown-menu>
+            {% for item in site.menu %}
+            <li><a href="{{ item.link }}" title="{{ item.name }}">{{ item.name }}</a></li>
+            {% endfor %}
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div class="cell medium-offset-3 large-offset-0 medium-6 large-3">
+      <a href="/donate" class="button large expanded">DONATE</a>
+    </div>
   </div>
-  <div class="top-bar-right">
-    <ul class="menu">
-      <li><button type="button" class="button">DONATE</button></li>
-    </ul>
-  </div>
-</div>
 </div>
