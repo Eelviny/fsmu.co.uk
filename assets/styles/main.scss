@@ -49,8 +49,8 @@
   img {
     max-height: 40px;
     max-width: 40px;
-    }
   }
+}
 
 #fsmu-top-bar {
   background-color: $primary-color;
@@ -78,8 +78,8 @@
   padding-top: 5rem;
   padding-bottom: 5rem;
   border-radius: 0 0 15px 15px;
-  }
-  
+}
+
 #fsmu-footer {
   color: white;
   background-color: {{ site.color.secondary }};
@@ -89,8 +89,9 @@
     width:90%;
     max-width: 400px;
     padding-bottom: 10px
-    }
   }
+}
+
 #fsmu-social-bar {
   @extend #fsmu-footer;
   background-color: #695442;
@@ -99,11 +100,12 @@
   text-align: center;
   letter-spacing: 5px;
   font-size: 200%;
-  }
+}
+
 #fsmu-copyright {
   @extend #fsmu-footer;
   padding-top:1.5rem;
   padding-bottom: 0.5rem;
   font-size: 75%;
   text-transform: uppercase;
-  }
+}

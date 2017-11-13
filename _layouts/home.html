@@ -11,36 +11,41 @@ pictures:
 
 <div class="grid-container" style="padding-bottom: 4rem">
   <div class="grid-x grid-margin-x focus-block" >
-    {% for i in (1..3) %}
+    {% for item in page.hero %}
     <div class="cell medium-4">
-      <h3><i class="fa fa-child fa-2x"></i></h3>
-      <h3>PROJECTS</h3>
-      <p>There is always more work to do. Take a look at our past and present projects.</p>
-      <a href="http://google.com">See what we do</a>
+      <a href="{{ item.url }}">
+        <h3><i class="fa {{ item.icon }} fa-2x"></i></h3>
+        <h3 style="text-transform: uppercase;">{{ item.title }}</h3>
+      </a>
+      <p>{{ item.desc }}</p>
     </div>
     {% endfor %}
   </div>
 </div>
 
 <div class="grid-container" style="padding-bottom: 4rem">
-  <div class="grid-x">
-    <div class="cell large-8"> 
-    <h2 style="text-align: center">INFORMATION</h2>
+  <div class="grid-x grid-margin-x">
+    <div class="cell medium-6 large-7"> 
     {{ content }}
     </div>
-    <div class="cell large-4">
-      <p>test</p>
+    <div class="cell medium-6 large-5">
+      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2433.5982152365614!2d33.63326762739911!3d0.7521416528467758!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xd194f2ffa2469115!2sSaint+Michael+Girl&#39;s+School!5e1!3m2!1sen!2snl!4v1510407687805" width="100%" height="100%" frameborder="0" style="border:0" allowfullscreen></iframe>
+    </div>
+    <div class="cell" style="margin-top: 2rem;">
+      <div class="responsive-embed widescreen">
+        <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/kVSSIDXrDkA?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+      </div>
     </div>
   </div>
 </div>
 
 <div class="grid-container">
   <h2 class="text-center">NEWS</h2>
-  {% for post in site.posts %}
+  {% for post in site.posts limit:2 %}
   <a href="{{ post.url }}"><h3>{{ post.title }}</h3></a>
   <p class="text-justify">{{ post.excerpt }}</p>
   <p style="color: #8a8a8a">{{ post.date | date: "%-d %B %Y" }}</p>    
-  <a href="{{ post.url }}" class="button">Continue Reading <i class="fa fa-arrow-circle-right"></i></a>
   <hr>
   {% endfor %}
+  <a href="/news" class="button">See all news <i class="fa fa-arrow-circle-right"></i></a>
 </div>
