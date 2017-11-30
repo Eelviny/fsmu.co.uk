@@ -1,0 +1,34 @@
+---
+layout: page
+title: 'Projects'
+---
+<!--
+{% for project in site.projects %}
+<div id="{{ project.title | slugify }}" class="small-12 large-6 columns text-justify">
+  {% if project.link %}
+  <a href="{{ project.link }}"><img class="float-center" src="{{ project.image.url }}" alt="{{ project.image.alt }}" /></a>
+  {% else %}
+  <img class="float-center" src="{{ project.image.url }}" alt="{{ project.image.alt }}" />
+  {% endif %}
+  {{ project.content }}
+  {% if project.link %}
+  <a class="small button float-right" href="{{ project.link }}">Take a look <i class="fa fa-arrow-circle-right"></i></a>
+  {% endif %}
+</div>
+{% endfor %}
+</div>
+-->
+
+{% for project in site.projects %}
+<div id="{{ project.title | slugify }}" class="grid-x grid-margin-x" style="margin-bottom: 1rem;">
+  <div class="cell medium-3">
+    <a href="{{ project.url }}"><img style="object-fit: cover; height: 200px; width: 100%;" src="{{ site.url }}{{ site.baseurl }}/assets/images/{{ project.image.name }}" alt="{{ project.image.alt }}" /></a>
+  </div>
+  <div class="cell medium-9">
+    <a href="{{ project.url }}"><h3>{{ project.title }}</h3></a>
+    <p>{{ project.content | strip_html | strip_newlines | truncate: 250 }}</p>
+  </div>
+</div>
+{% endfor %}
+
+

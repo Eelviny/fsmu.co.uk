@@ -9,7 +9,7 @@
     <div class="top-bar-left">
       <ul class="dropdown menu" data-dropdown-menu>
         {% for item in site.menu %}
-        <li><a href="{{ item.link }}" title="{{ item.name }}">{{ item.name }}</a></li>
+        <li><a href="{{ site.url }}{{ site.baseurl }}{{ item.link }}" title="{{ item.name }}">{{ item.name }}</a></li>
         {% endfor %}
       </ul>
     </div>

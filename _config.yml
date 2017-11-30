@@ -43,7 +43,7 @@ menu:
   - name: Gallery
     link: /gallery
   - name: Contact
-    link: contact
+    link: /contact
 
 sass:
   sass_dir: assets/styles
@@ -58,4 +58,7 @@ compress_html:
     - development
     
 collections:
-  partners:
+  projects:
+    output: true
+    layout: page
+    permalink: /:collection/:name/

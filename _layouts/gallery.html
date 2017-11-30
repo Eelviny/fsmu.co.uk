@@ -1,0 +1,13 @@
+---
+layout: page
+---
+
+{{ content }}
+
+<div class="grid-x grid-margin-x">
+  {% for image in page.images %}
+  <div class="cell medium-4 large-3" style="margin-bottom: 2rem;">
+    <a href="/assets/images/{{ image }}"><img style="object-fit: cover; height: 200px; width: 100%;" src="/assets/images/{{ image }}" alt="{{ image | remove: ".jpg" }}"></a>
+  </div>
+  {% endfor %}
+</div>

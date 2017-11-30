@@ -1,19 +1,12 @@
 <div id="fsmu-footer" style="margin-top: 4rem;">
   <div class="grid-x grid-container">
-    <div class="medium-4 columns">
-      <p style="font-weight: bold;">PARTNERS OVER THE YEARS<p>
-      {% for item in site.data.partners %}
+    {% for item in site.data.partners %}
+    <div class="small-6 medium-4 columns">
       <a href="{{ item.site }}" title="{{ item.name }}" target="_blank">
         <img src="/assets/images/{{ item.image }}" />
       </a>
-      {% endfor %}
     </div>
-    <div class="cell medium-4">
-      <p style="font-weight: bold;">NEWSLETTER<p>
-    </div>
-    <div class="cell medium-4">
-      <p style="font-weight: bold;">SITEMAP<p>
-    </div>
+    {% endfor %}
   </div>
 </div>
 
