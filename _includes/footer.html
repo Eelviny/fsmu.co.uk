@@ -1,12 +1,14 @@
 <div id="fsmu-footer" style="margin-top: 4rem;">
-  <div class="grid-x grid-container">
-    {% for item in site.data.partners %}
-    <div class="small-6 medium-4 columns">
-      <a href="{{ item.site }}" title="{{ item.name }}" target="_blank">
-        <img src="/assets/images/{{ item.image }}" />
-      </a>
+  <div class="grid-container">
+    <div class="grid-x">
+      {% for item in site.data.partners %}
+      <div class="small-6 medium-4 columns">
+        <a href="{{ item.site }}" title="{{ item.name }}" target="_blank">
+          <img src="/assets/images/{{ item.image }}" style="width: 90%;" />
+        </a>
+      </div>
+      {% endfor %}
     </div>
-    {% endfor %}
   </div>
 </div>
 
@@ -32,7 +34,7 @@
       <p>&#169; {{ site.time | date: '%Y' }} | {{ site.title }}</p>
     </div>
     <div class="cell medium-shrink">
-      <p>Developed by <a href="https://eelviny.me" title="Eelviny" target="_blank">Eelviny</a></p>
+      <p>Design by <a href="https://eelviny.me" title="Eelviny" target="_blank">Eelviny</a></p>
     </div>
   </div>
 </div>

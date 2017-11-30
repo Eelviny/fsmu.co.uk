@@ -27,6 +27,7 @@ title: 'Projects'
   <div class="cell medium-9">
     <a href="{{ project.url }}"><h3>{{ project.title }}</h3></a>
     <p>{{ project.content | strip_html | strip_newlines | truncate: 250 }}</p>
+    <a href="{{ project.url }}">Read More <i class="fa fa-arrow-circle-right"></i></a>
   </div>
 </div>
 {% endfor %}

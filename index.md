@@ -2,9 +2,12 @@
 title: Homepage
 layout: home
 pictures:
-- DSCF3229.jpg
 - DSCF3806.jpg
-- boys-running.jpg
+- 426.jpg
+- DSCF3900.jpg
+- Lizzie-Uganda-Aug-2009-3451.jpg
+- 072.jpg
+- DSCN2138.jpg
 hero:
   - icon: 'fa-child'
     title: 'Projects'
