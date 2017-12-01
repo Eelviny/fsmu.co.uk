@@ -14,7 +14,7 @@ images:
   - computermessage.jpg
   - construction.jpg
   - cooking.jpg
-  - dentist.png
+  - dentist.jpg
   - DSCF1408.jpg
   - DSCF1569.jpg
   - DSCF1570.jpg
