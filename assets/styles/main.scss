@@ -65,6 +65,13 @@
   }
 }
 
+#donatebutton {
+  border-color: $white;
+  &:hover {
+    border-color:$light-gray;
+  }
+}
+
 #top-button {
   background-color: blue;
   height: 4.5rem;
