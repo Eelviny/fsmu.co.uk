@@ -14,7 +14,7 @@ _Between July and August, a group of 6 boys visited the school with a big projec
 
 We are a group of 6 friends, 4 of whom went to St Michaels Girls School for the first time in 2014 and 2 of whom went for the first time in July 2016. For one of our group it was his first time in a plane!
 
-![]({{ site.baseurl }}/assets/images/DSCF7458-1.jpg)
+![]({{ site.baseurl }}/assets/images/DSCF7458.jpg)
 
 We spent 5 weeks at the school this summer. Here is a picture of us outside the new boys dorm at the opening ceremony with Father Joseph, local priest. One of us cut the white ribbon in front of us.
 
