@@ -1,4 +1,6 @@
 ---
+pages:
+- _posts/visitors-for-2014.md
 hide_body: false
 fields:
 - name: title
