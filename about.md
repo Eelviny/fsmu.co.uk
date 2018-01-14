@@ -10,10 +10,10 @@ title: About
 The charity was formally set up in 2009 after informally supporting St. Michael’s for several years. Fiona, one of the Trustees, had a successful and formative time at St. Michael’s in her gap year in 2002. This led her to returning to the school in the following years and amongst other things starting the building of the library. Other visits followed by members of her family and volunteers too, all being overwhelmed by the love and friendship they experienced, and the need and desire to do something to help and sustain the bonds and relationships that had built up.
 
 <div class="grid-x">
-<div class="cell medium-3">
-<a href="http://fsmu.co.uk/wp-content/uploads/2015/06/logonew.png"><img class="alignnone size-medium wp-image-1338" src="http://fsmu.co.uk/wp-content/uploads/2015/06/logonew-281x300.png" alt="logonew" width="281" height="300" /></a>
+<div class="cell medium-4">
+<a href="{{ site.url }}{{ site.baseurl }}/assets/images/logo.svg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/logo.svg" alt="logo" /></a>
 </div>
-<div class="cell medium-9">
+<div class="cell medium-8">
 <p>It was decided that the best way give a clear focus and direction to the efforts to support the school both in practical ways on the ground and with fund raising was to form a charity specifically for that purpose, which happened in 2009. However St. Michael’s is a primary school situated next door to its sister school Bishop Willigers Secondary school. To encourage transition from primary to secondary it was felt necessary to encompass Bishop Willigers in the objects of the charity, as it too is desperately poor with even fewer facilities than St. Michael’s.</p>
 
 <p>The charity is education and welfare-focused formed to advance the education and welfare not only of the approximately 600 children at the school but also its close neighbour and sister school Bishop Willigers Secondary School which its objects confirm. As a small charity with no overheads, such as salaries or rent, we are able to ensure that all donations go to where they are needed.</p>
@@ -21,10 +21,6 @@ The charity was formally set up in 2009 after informally supporting St. Michael�
 <p>At least 2 of the trustees travel out separately on an annual basis to oversee the various projects, living at the school and getting involved with school life. Thanks to technology there is usually communication on a weekly basis with both the Headmistress and the School Management Committee, all working in partnership striving towards a better education for the marginalised “girl child” of Uganda.</p>
 </div>
 </div>
-
-#### Who We Are
-
-(insert people here)
 
 #### How We Work
 We are a small “kitchen table” UK registered charity. By this we mean we have no premises, only our own homes, and no equipment except that which we use in our everyday lives. Our trustees all volunteer their time and experience.
