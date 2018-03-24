@@ -34,7 +34,7 @@ With computers becoming more and more integral to our way of life, it makes sens
 
 For this purpose, we now have equipped a computer room with 24 computers, in order for as many students as possible to be using the computers at once. However, this is still not enough for a whole class, so the work to bring computers to the school is ongoing. The computers are currently a mix of desktop computers and laptops. While the computers are good, they are not as easy to get hold of due to restrictions on the import of computers. Laptops provide a perfect solution to this, allowing our volunteers to easily bring the laptops to the school with them. The laptops also have the advantage of having batteries (Although some batteries may not be the best quality) so the computers can still be used in the event of the quite frequent power cuts to the school.
 
-<blockquote><a title="Contact" href="http://test.fsmu.co.uk/contact/">Donations of old laptops are very helpful for us. If you have any laptops lying around, not in use, we would love to hear from you!</a></blockquote>
+<blockquote><a title="Contact" href="{{ site.url }}{{ site.baseurl }}/contact/">Donations of old laptops are very helpful for us. If you have any laptops lying around, not in use, we would love to hear from you!</a></blockquote>
 
 Any laptops we receive have all old data removed from them and are installed with a Linux distribution, which means we can provide the software the students need in a highly secure, stable and most importantly free way. While the PCs have licenses for Windows installed, obtaining new licenses is not easy and this alternative is a great compromise.
 

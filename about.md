@@ -4,48 +4,49 @@ title: About
 ---
 
 ### About Us
+
 {: #about-us}
 
-#### Background To Our Charity
-The charity was formally set up in 2009 after informally supporting St. Michael’s for several years. Fiona, one of the Trustees, had a successful and formative time at St. Michael’s in her gap year in 2002. This led her to returning to the school in the following years and amongst other things starting the building of the library. Other visits followed by members of her family and volunteers too, all being overwhelmed by the love and friendship they experienced, and the need and desire to do something to help and sustain the bonds and relationships that had built up.
+#### Background to the Charity
 
-<div class="grid-x">
-<div class="cell medium-4">
-<a href="{{ site.url }}{{ site.baseurl }}/assets/images/logo.svg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/logo.svg" alt="logo" /></a>
-</div>
-<div class="cell medium-8">
-<p>It was decided that the best way give a clear focus and direction to the efforts to support the school both in practical ways on the ground and with fund raising was to form a charity specifically for that purpose, which happened in 2009. However St. Michael’s is a primary school situated next door to its sister school Bishop Willigers Secondary school. To encourage transition from primary to secondary it was felt necessary to encompass Bishop Willigers in the objects of the charity, as it too is desperately poor with even fewer facilities than St. Michael’s.</p>
+Friends of St. Michael's was registered with the Charities Commission in 2009. Fiona a Trustee, had a successful and formative time at St. Michael’s in her Gap Year in 2002. She returned to the school every year and started the building of the library. Other visits followed by members of her family and friends -  all being moved by the love and friendship they received, and the drive and desire to do something to help. 
 
-<p>The charity is education and welfare-focused formed to advance the education and welfare not only of the approximately 600 children at the school but also its close neighbour and sister school Bishop Willigers Secondary School which its objects confirm. As a small charity with no overheads, such as salaries or rent, we are able to ensure that all donations go to where they are needed.</p>
+<div class="grid-x"> <div class="cell medium-4"> <a href="{{ site.url }}{{ site.baseurl }}/assets/images/logo.svg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/logo.svg" alt="logo" /></a> </div> <div class="cell medium-8"> <p>It was decided that the best way to give a clear focus to the efforts to support the school, both in practical ways on the ground and to help with fundraising, was to form a charity.
 
-<p>At least 2 of the trustees travel out separately on an annual basis to oversee the various projects, living at the school and getting involved with school life. Thanks to technology there is usually communication on a weekly basis with both the Headmistress and the School Management Committee, all working in partnership striving towards a better education for the marginalised “girl child” of Uganda.</p>
-</div>
-</div>
+Bishop Willigers Secondary School is next door to St. Michael’s. To encourage transition from primary to secondary and help support the parents it was felt necessary to encompass Bishop Willigers and the immediate community into our charitable aims.</p>
+
+<p>The charity is education and welfare-focused -  To advance the education and welfare of the 600+children at St. Michael's, the building and development of Bishop Willigers Secondary School (100 pupils)  and to help the immediate community - the village of Namunyumya. As a small charity with no overheads, such as salaries or rent, we are able to ensure that all donations go to where they are needed.</p>
+
+<p>At least 2 of the trustees travel out separately on an annual basis to oversee the various projects, sleeping at St. Michael's  and getting involved with school life. </p> </div> </div>
 
 #### How We Work
+
 We are a small “kitchen table” UK registered charity. By this we mean we have no premises, only our own homes, and no equipment except that which we use in our everyday lives. Our trustees all volunteer their time and experience.
 
-At least 2 of the trustees travel to the school to oversee the projects on an annual basis and all donations and money received is used in support of the charity objects, no salaries are paid. We feel strongly that all money given to the charity goes to help the school to support the various projects and initiatives. In this way all donations and money go directly to where they are needed.
+At least 2 of the trustees travel to Namunyumya to oversee the projects every year and all donations are used in support of our Charitable Objectives. We feel strongly that all money given to the charity goes to help the schools and and the village of  Namunyumya. 
 
-We work closely with St Michael’s school, staff, parents and school management to ensure that all money and gifts are being spent wisely and on projects that are sustainable. Communication with the school and management takes place frequently. In this way our support can be focussed, relevant and up to date.
+Trustees fund their own travel.
 
-Here in the UK the trust is managed by the 5 trustees who meet at least 4 times a year and who otherwise communicate with each other by telephone and the internet. Good communication is essential, and happens.
+We work closely with St Michael’s and the other village schools, staff, parents and school management and the village of Namunyumya to ensure that all money and gifts are being spent wisely and on projects that are sustainable. 
 
-<hr>
+Communication with the schools and community takes place frequently. In this way our support can be focused, relevant and up to date.
 
-### About the School
+Here in the UK the charity is managed by the 6 trustees who meet regularly.
+
+### About St. Michael's School
+
 {: #about-the-school}
 
 St Michael’s is a girls’ primary school in a desperately poor area of rural Uganda 88 miles to the east of Kampala. It plays a vital role in the community and achieves excellent examination results but needs our help to thrive and develop.
 
-The school was founded in 1962 by the Mill Hill Fathers under the leadership of Sister Mary John of the Order of the Little Sisters of St. Francis. The Headmistress and her predecessors have all belonged to the Little Sisters of St. Francis which is a Franciscan Order. The local Catholic Diocese is that of Jinja.
+The school was founded in 1962 by the Mill Hill Fathers under the leadership of Sister Mary John of the Order of the Little Sisters of St. Francis. The Headmistress and her predecessors have all belonged to the Little Sisters of St. Francis which is a Franciscan Order. 
 
-The school became Government-aided in 1967 which means that the day girls receive a free education until secondary school. However the funding from the Government is very limited indeed – about £1 per child per annum! This level of provision results in quite often a lack of even basic essentials and staffing issues.
+The school became Government-aided in 1967 which means that the day girls receive a free education until Secondary School. However the grant for resources and text books from the Government is very limited  – about £1 per child per annum! This level of provision results in quite often a lack of even the most basic essentials and low staffing levels.
 
-Primary schooling finishes at the age of 15 with exams determining whether a child can progress to secondary level but because schooling after this level is not free to the overwhelming majority of pupils (and so has to be financed by the parents) this is where  education ends for most of the children in Uganda.
+Primary schooling finishes after 7 years with National Exams determining whether a child can progress to Secondary School.  But schooling after this level is not free for the overwhelming majority of pupils, so this is where education ends for many of the children in Uganda.
 
-St. Michael’s admits girls from throughout the country irrespective of religion, tribe, colour or political affiliation. There are about 600 girls and 12 boys, some of whom are orphans who have been given food and shelter by the school. Most are day girls but there are about 250 boarders housed in dormitories at the school.
+St. Michael’s admits girls irrespective of religion, tribe, colour or political affiliation. There are about 600 girls and 12 boys, some of whom are orphans who have been given food and shelter by the school. Most are day girls but there are about 250 boarders.
 
-A statistic coming out of a recent G8 summit is that Uganda’s population (if left unchecked) is set to rise from 30 million to 93 million by 2050! Educated girls in Uganda have on average 2.9 children as opposed to 6.5 children born to uneducated girls.
+Uganda’s population - if left unchecked- is set to rise from 42 million to 102 million by 2050! Educated girls in Uganda have on average 2.9 children as opposed to 6.5 children born to uneducated girls. So girls' education is VITAL.
 
-The commitment of the Charity is to continue to support this remarkable school where happiness, joy and love do co-exist with extreme poverty and deprivation. Education is the key for these girls to unlock the door of their potential and for them to escape the poverty cycle.
+The commitment of the Charity is to continue to support this remarkable school where happiness, joy and love do co-exist with extreme poverty and deprivation. Education is the key for these girls to unlock the door to their potential.
