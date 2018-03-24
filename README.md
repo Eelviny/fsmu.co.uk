@@ -1,2 +1,2 @@
 # fsmu.co.uk
-Friends Of St Michaels Uganda
+Friends Of St Michaels Uganda website
