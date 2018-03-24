@@ -27,9 +27,9 @@ social:
     icon: google-plus
     site: 'https://plus.google.com/+FSMUcoukUganda/about'
     
-  - name: Youtube
-    icon: youtube
-    site: 'https://www.youtube.com/channel/UCkbB9Bum0NuqVY5dBH1wEkw'
+  - name: Instagram
+    icon: instagram
+    site: 'https://www.instagram.com/fsmuganda/'
     
 menu:
   - name: Home
