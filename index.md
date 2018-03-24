@@ -32,4 +32,4 @@ There are 600+ girls and 12 boys, both boarding and day scholars. Most come from
 
 The charity to support the school was created in 2009 as a means of providing on-going support both practical and financial to this loving community although our help had started a few years earlier.
 
-Notwithstanding the fact that the school is government aided the facilities are extremely basic. Despite the challenges the staff show remarkable commitment and the school is a place of great happiness..
+Notwithstanding the fact that the school is government aided the facilities are extremely basic. Despite the challenges the staff show remarkable commitment and the school is a place of great happiness.
