@@ -2,7 +2,7 @@
 layout: page
 title: Library
 image: 
-  name: 'library.jpg'
+  name: 'librarybook.jpg'
   alt: 'Child reading a book'
 ---
 
