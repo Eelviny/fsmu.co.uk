@@ -2,8 +2,8 @@
 layout: page
 title: 'The Okwasa Project'
 image: 
-  name: 'okwasa-logo.png'
-  alt: 'Okwasa Logo'
+  name: '3pots.jpg'
+  alt: 'Okwasa Crafts'
 ---
 
 <a href="{{ site.url }}{{ site.baseurl }}/assets/images/{{ page.image.name }}"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/{{ page.image.name }}" style="height: 500px;" /></a>
