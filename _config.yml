@@ -13,6 +13,7 @@ section: Blog
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-feed
 
 social:
   - name: Facebook
