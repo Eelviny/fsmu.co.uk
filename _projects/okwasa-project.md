@@ -6,7 +6,7 @@ image:
   alt: 'Okwasa Crafts'
 ---
 
-<a href="{{ site.url }}{{ site.baseurl }}/assets/images/{{ page.image.name }}"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/{{ page.image.name }}" style="height: 500px;" /></a>
+<a href="{{ site.url }}{{ site.baseurl }}/assets/images/{{ page.image.name }}"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/{{ page.image.name }}" style="object-fit: cover; height: 500px; width: 100%;" /></a>
 
 <div class="callout">
   <p class="lead">Okwasa - To light a fire <em>(Lugandan)</em></p>
