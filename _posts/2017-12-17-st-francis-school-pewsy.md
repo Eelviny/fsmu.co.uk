@@ -1,8 +1,8 @@
 ---
-title: St Francis School, Pewsy
+title: St Francis School, Pewsey
 layout: post
 section: news
-date: 2015-10-20 16:00:48 +0100
+date: 2015-10-20 15:00:48 +0000
 image:
   url: ''
   alt: ''
