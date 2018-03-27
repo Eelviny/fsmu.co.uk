@@ -16,7 +16,7 @@ Bishop Willigers Secondary School is next door to St. Michael’s. To encourage 
 
 <p>The charity is education and welfare-focused -  To advance the education and welfare of the 600+children at St. Michael's, the building and development of Bishop Willigers Secondary School (100 pupils)  and to help the immediate community - the village of Namunyumya. As a small charity with no overheads, such as salaries or rent, we are able to ensure that all donations go to where they are needed.</p>
 
-<p>At least 2 of the trustees travel out separately on an annual basis to oversee the various projects, sleeping at St. Michael's  and getting involved with school life. </p> </div> </div>
+<p>At least 2 of the trustees travel out separately on an annual basis to oversee the various projects, sleeping at St. Michael's and getting involved with the life of the school and community. </p> </div> </div>
 
 #### How We Work
 
@@ -76,7 +76,7 @@ St Michael’s is a girls’ primary school in a desperately poor area of rural 
 
 The school was founded in 1962 by the Mill Hill Fathers under the leadership of Sister Mary John of the Order of the Little Sisters of St. Francis. The Headmistress and her predecessors have all belonged to community of the LSOSF - a Franciscan Order.
 
-The school became Government-aided in 1967. The day girls receive a free education until Secondary School. However the grant for resources and text books from the Government is very limited  – about £1 per child per annum! This grant results in a lack of even the most basic essentials and low staffing levels.
+The school became Government-aided in 1967. The day girls receive a free education until Secondary School. However the grant for resources and text books from the Government is very limited  – about £1 per child per annum resulting in a lack of even the most basic essentials and low staffing levels.
 
 Primary schooling finishes after 7 years with National Exams determining whether a child can progress to Secondary School.  Schooling after this level is not free for the overwhelming majority of pupils, so this is where education finishes for many Ugandan children.
 
