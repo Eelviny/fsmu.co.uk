@@ -8,7 +8,7 @@ date: 2018-03-26 17:27:24 +0000
 ---
 <a href="{{ site.url }}{{ site.baseurl }}/assets/images/{{ page.image.name }}"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/{{ page.image.name }}" style="object-fit: cover; height: 500px; width: 100%;" /></a>
 
-In June 2010 Lizzie Beach-MacGeagh, daughter and sister of two of our trustees, was killed by a hit and run driver in London.  Lizzie loved Uganda and spent two happy visits at the school and was in the process of planning another trip after University.
+In 2010 Lizzie Beach-MacGeagh, daughter and sister of two of our trustees, was killed by a hit and run driver in London.  Lizzie loved Uganda and spent two happy visits at the school and was in the process of planning another trip after University.
 
 So many of her friends and family knew how much she loved the girlsat St. Michael's. Building a 4 bed Medical Centre, in her memory, in the grounds of the school has brought much peace from such an unbearable tragedy - Lizzie’s lasting legacy - caring for the girls and saving many lives.
 
