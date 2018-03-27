@@ -40,7 +40,7 @@ Fiona first went to St Michael's in 2002 to volunteer at the school for four mon
 
 She has a special relationship with all the staff and girls and a very good understanding of how we can support and encourage the school/community.
 
-In the UK she has been working in Education for over eight years and is currently working  for a school in Wiltshire and is very passionate about the education of girls.
+In the UK she has been working in Education for over eight years and is currently working for a school in Wiltshire and is very passionate about the education of girls.
 
 **Matthew Devlin - Trustee**
 
