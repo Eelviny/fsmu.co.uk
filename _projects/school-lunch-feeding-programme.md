@@ -20,7 +20,11 @@ Results since starting the feeding programme:
 * **Staff are able to carry out their teaching more effectively**
   
 
-Our charity was formed to start up and fund this project and it will always be our main focus. We are working with the staff and parents encouraging them to play an active part.
+Our charity was formed to start up and fund this project and it will always be our main focus. We are working with the staff and parents encouraging them to play an active part. 
+
+We are also funding School Lunches at Bishop Willigers Secondary School.
+
+We are also starting the funding of School Lunches at St. Mulumba's Primary School (next door to St Michael's) - 1100 pupils.
 
 ### Evaluation of the Feeding Programme and moving forward
 
@@ -28,6 +32,6 @@ In August 2011, an Oxford graduate volunteered at the school and undertook an in
 
 However, it is clear that we now need to also focus on the nutritional needs of the boarders and orphans at the school. The school has a very small budget to feed the boarders, and no money for feeding the orphans, until we started to help support the orphans.
 
-The drought and the continuing food storages in East Africa have impacted the school as the cost of basic food items have rocketed in price.
+The drought and the continuing food shortages in East Africa have impacted the school as the cost of basic food items have rocketed in price.
 
-We aim to work in partnership with the school on how we support them – and it will be in a number of ways – through education so that they understand the importance of a varied diet and to help fund the purchase of crops for the school garden.
+We aim to work in partnership with the school on how we support them – and it will be in a number of ways – through education so that they understand the importance of a varied diet and to help fund the purchase of crops for the school garden and introduction of Moringa.
