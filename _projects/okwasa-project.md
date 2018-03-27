@@ -23,7 +23,9 @@ We are calling our Outreach Work in the Community - **The Okwasa Project** -
 * Very needy children from the village who have done well in the Primary Leavers Exams are being educated at Bishop Willigers Secondary School. We also pay for uniforms, shoes, sanitary pads and other school requirements .
 * A villager is being trained in book keeping so we can then help her to open a shop at her home near a busy borehole.
 * 10 Orphans are being fully funded through Secondary School and Vocational Training.
-* We are working with James and Veronica who are cultivating 2 acres of land to supply Dried Moringa Leaf Powder to the school. **Moringa** is called **the Miracle Tree** and is very nutritious, and will supplement and improve the carbohydrate diet of the girls.
+* We are working with James and Veronica who are cultivating 2 acres of land to supply Dried Moringa Leaf Powder to the school. 
+
+  **Moringa** is called **the Miracle Tree** and is very nutritious, and will supplement and improve the carbohydrate diet of the girls.
 * We are buying pots from the Babone Women’s Group - a craft group in the village- There are no tourists in this area of Uganda and therefore no market for their beautiful pots. We buy them at the price that we can sell them for in the UK - which means a fair price for the pot + extra so that they can diversify and develop other business ideas. Please get in touch if you would like one of these lovely pots by sending us a message on our Contact Page.
 
 Prices range from £7 - £12 depending on size.
