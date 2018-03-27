@@ -14,4 +14,4 @@ The St. Michael’s Nursery opened in 2015 using the School Dining/Examination H
 
 Very few of the parents manage to pay the full 45,000 UGX/term (£10) which includes lunch -  but some parents try to pay little by little when they can.
 
-In 2017 with financial help and volunteers from the NGO East African Playgrounds a playground was built for all the pupils at St Michael’s - and this has been a wonderful addition for the Nursery children to enjoy - All our long term volunteers now spend time in the Nursery School.  This extra help means that the children can work in smaller groups doing fun hands on activities appropriate for their age.
+In 2017 with financial help and volunteers from the NGO East African Playgrounds a playground was built for all the pupils at St Michael’s - and this has been a wonderful addition for the nursery children to enjoy - All our long term volunteers now spend time in the Nursery School.  This extra help means that the children can work in smaller groups doing fun hands on activities appropriate for their age.
