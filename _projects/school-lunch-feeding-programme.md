@@ -1,30 +1,29 @@
 ---
 layout: page
-title: 'School Lunch Feeding Programme'
-image: 
-  name: 'school-food.jpg'
+title: Bowl of Porridge
+image:
+  name: school-food.jpg
   alt: Children receiving food'
+date: 2018-03-26 17:27:24 +0000
 ---
-
 <a href="{{ site.url }}{{ site.baseurl }}/assets/images/{{ page.image.name }}"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/{{ page.image.name }}" style="object-fit: cover; height: 500px; width: 100%;" /></a>
 
-The School Lunch Feeding Programme started in 2008, with the aim to give all day girls a bowl of porridge a couple of times a week. Within a year we were able to give the 500 day girls a bowl of maize porridge each day at school, which we have continued doing, with the help of donations.
+The School Lunch Feeding Programme started in 2008, with the aim to give all day girls a bowl of porridge. Within a year we were able to give all the 500 day girls a bowl of maize porridge each day at school.
 
-It costs £1 per term to feed each girl, which includes the cost of firewood. So that is a cost of £500 per term (depending on inflation).
-
-This small meal is making a significant difference. Too many of the girls came to school to starts lessons at 8am without having breakfast and having walked a long distance to reach school. They would then not be given any food until they finished school.
+This small meal makes a significant difference. Too many of the girls came to school without having breakfast - some having walked a long distance. They would have nothing to eat until they returned home in the late afternoon. 
 
 Results since starting the feeding programme:
 
-Better concentration in class
-Improved attendance
-Better exam results
-Staff are able to carry out their job more effectively
-Our charity was formed to start and fund this project and it will always be our main objective.
+* **Better concentration in class**
+* **Improved attendance** 
+* **Better exam results** 
+* **Staff are able to carry out their teaching more effectively**
+  
 
-The school has now taken delivery of a large energy-efficient stove, funded by us, which will burn significantly less firewood.
+Our charity was formed to start up and fund this project and it will always be our main focus. We are working with the staff and parents encouraging them to play an active part.
 
 ### Evaluation of the Feeding Programme and moving forward
+
 In August 2011, an Oxford graduate volunteered at the school and undertook an in depth nutritional assessment of a sample group of 100 girls (a mix of boarders and day girls). She was satisfied that our School Lunch Feeding Programme supported the day girls in an appropriate way and was sustainable.
 
 However, it is clear that we now need to also focus on the nutritional needs of the boarders and orphans at the school. The school has a very small budget to feed the boarders, and no money for feeding the orphans, until we started to help support the orphans.
