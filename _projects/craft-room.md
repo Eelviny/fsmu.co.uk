@@ -10,7 +10,7 @@ date: 2018-03-26 17:27:24 +0000
 
 The Sewing/Craft Room was built and equipped in 2011 to teach the girls basic sewing skills to repair their uniform + clothing and if interested to start to learn how to make their own clothes. Only a small number of the girls that attend St Michael’s will go on to secondary school. This is an opportunity to give the girls who will be dropping out of education a skill to take with them when they return to their homes. 
 
-The Sewing/Craft Room has hand sewing machines (the old Singer sewing machine type) and the charity funds the salary of Solivia -  the very talented seamstress, who not only makes the uniforms for all the children but also runs the many sewing/craft clubs, with the help of artistic and creative teachers. 
+The Sewing/Craft Room has hand sewing machines (old Singer sewing machine type) and the charity funds the salary of Solivia -  the very talented seamstress, who not only makes the uniforms for all the children but also runs the many sewing/craft clubs, with the help of artistic and creative teachers. 
 
 ### Sanitary Pads
 
