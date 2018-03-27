@@ -74,14 +74,14 @@ Kay runs our Twitter Account.
 
 St Michael’s is a girls’ primary school in a desperately poor area of rural Uganda 88 miles to the east of Kampala. It plays a vital role in the community and achieves excellent examination results but needs help to thrive and develop.
 
-The school was founded in 1962 by the Mill Hill Fathers under the leadership of Sister Mary John of the Order of the Little Sisters of St. Francis. The Headmistress and her predecessors have all belonged to the Little Sisters of St. Francis which is a Franciscan Order.
+The school was founded in 1962 by the Mill Hill Fathers under the leadership of Sister Mary John of the Order of the Little Sisters of St. Francis. The Headmistress and her predecessors have all belonged to community of the LSOSF - a Franciscan Order.
 
-The school became Government-aided in 1967 which means that the day girls receive a free education until Secondary School. However the grant for resources and text books from the Government is very limited  – about £1 per child per annum! This level of provision results in quite often a lack of even the most basic essentials and low staffing levels.
+The school became Government-aided in 1967. The day girls receive a free education until Secondary School. However the grant for resources and text books from the Government is very limited  – about £1 per child per annum! This grant results in a lack of even the most basic essentials and low staffing levels.
 
-Primary schooling finishes after 7 years with National Exams determining whether a child can progress to Secondary School.  But schooling after this level is not free for the overwhelming majority of pupils, so this is where education ends for many of the children in Uganda.
+Primary schooling finishes after 7 years with National Exams determining whether a child can progress to Secondary School.  Schooling after this level is not free for the overwhelming majority of pupils, so this is where education finishes for many Ugandan children.
 
-St. Michael’s admits girls irrespective of religion, tribe, colour or political affiliation. There are about 600 girls and 12 boys, some of whom are orphans who have been given food and shelter by the school. Most are day girls but there are about 250 boarders.
+St. Michael’s admits girls irrespective of religion, tribe, colour or political affiliation. There are about 600 girls and 12 boys, some are orphans who have been given food and shelter by the school. Most are day girls but there are about 250 boarders.
 
-Uganda’s population - if left unchecked- is set to rise from 42 million to 102 million by 2050! Educated girls in Uganda have on average 2.9 children as opposed to 6.5 children born to uneducated girls. So girls' education is VITAL.
+Uganda’s population - if left unchecked- is set to rise from 42 million to 102 million by 2050! Educated girls in Uganda have on average 2.9 children as opposed to 6.5 children born to uneducated girls. So the education of girls is VITAL.
 
-The commitment of the Charity is to continue to support this remarkable school where happiness, joy and love do co-exist with extreme poverty and deprivation. Education is the key for these girls to unlock the door to their potential.
+The commitment of the Charity is to continue to support this remarkable school where happiness, joy and love do co-exist with extreme poverty and deprivation. Education is the key for these girls to unlock their potential.
