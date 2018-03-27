@@ -72,7 +72,7 @@ Kay runs our Twitter Account.
 
 {: #about-the-school}
 
-St Michael’s is a girls’ primary school in a desperately poor area of rural Uganda 88 miles to the east of Kampala. It plays a vital role in the community and achieves excellent examination results but needs our help to thrive and develop.
+St Michael’s is a girls’ primary school in a desperately poor area of rural Uganda 88 miles to the east of Kampala. It plays a vital role in the community and achieves excellent examination results but needs help to thrive and develop.
 
 The school was founded in 1962 by the Mill Hill Fathers under the leadership of Sister Mary John of the Order of the Little Sisters of St. Francis. The Headmistress and her predecessors have all belonged to the Little Sisters of St. Francis which is a Franciscan Order.
 
