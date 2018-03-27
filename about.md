@@ -36,9 +36,7 @@ Vicki does the co-ordination in the UK and gives Talks to encourage donations. H
 
 **Fiona Beach-MacGeagh - Trustee**
 
-Fiona first went to St Michael's in 2002 to volunteer at the school for four months - since then she has returned each year.
-
-She has a special relationship with all the staff and girls and a very good understanding of how we can support and encourage the school/community.
+Fiona first went to St Michael's in 2002 to volunteer at the school for four months - since then she has returned each year. She has a special relationship with all the staff and girls and a very good understanding of how we can support and encourage the school/community.
 
 In the UK she has been working in education for over eight years and is currently working at a school in Wiltshire. She is very passionate about the education of girls.
 
