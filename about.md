@@ -62,7 +62,7 @@ Sue Lyn is a lawyer working in Sussex. Her first visit to St. Michael's was in 2
 
 **Kay Hudson - Ambassador**
 
-Kay first travelled to St. Michael’s with Liz Beach-Macgeagh in 2009. They spent a blissful month doing sport and crafts with the girls during the girls’ long school holiday.
+Kay first travelled to St. Michael’s with Lizzie Beach-Macgeagh in 2009. They spent a blissful month doing sport and crafts with the girls during the girls’ long school holiday.
 
 She has continued her relationship with the school ever since, and has made several more visits. She is delighted to be an ambassador and to continue volunteering at St. Michael’s.
 
