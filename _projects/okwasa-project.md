@@ -12,7 +12,7 @@ date: 2018-03-26 17:27:24 +0000
 <p class="lead">Okwasa - To light a fire <em>(Lugandan)</em></p>
 </div>
 
-Our charity was formed to specifically support St. Michael’s school. As it has developed and grown we have become more and more aware of the real poverty in the village. Many of our day girls come to school with no exercise books or pencils – some do not wear pants.
+              Our charity was formed to specifically support St. Michael’s school. As it has developed and grown we have become more and more aware of the real poverty in the village. Many of our day girls come to school with no exercise books or pencils – some do not wear pants.
 
 We are now listening to the villagers and speaking to the village leaders to see if we can help  - whether it is training or facilitating the start up of income generating ventures.
 
