@@ -1,19 +1,17 @@
 ---
 layout: page
 title: Orphans
-image: 
-  name: 'happy-children.jpg'
-  alt: 'Surrounded by children'
+image:
+  name: happy-children.jpg
+  alt: Surrounded by children
+date: 2018-03-26 17:27:24 +0000
 ---
-
 <a href="{{ site.url }}{{ site.baseurl }}/assets/images/{{ page.image.name }}"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/{{ page.image.name }}" style="object-fit: cover; height: 500px; width: 100%;" /></a>
 
-We now have an increasing number of orphans at the school, currently 40 in total. Although the school is not an orphanage, there is a current problem in the fact that all nearby orphanages have reached or gone over their capacity, leaving these orphans without nowhere to go. So, in order to help, St Michael's has taken them in so as to give them a place to live and learn.
+We now have an increasing number of orphans at the school. 
 
-The school receives no money to help support these children, and is completely reliant on funds they receive to pay for their uniforms, food and other basic items.
+The school receives no money to help support these children, and is reliant on funds they receive from us and kindhearted Ugandans to pay for their uniforms, food and other basic items.
 
-In 2011 we created an Orphan Fund which meant we were able to immediately send money out to the Headmistress to buy bedding, uniform and some basic toiletries for them.
+In 2011 we created an Orphan Fund. Some donors ask that their regular giving helps the headmistress to buy essentials for these children. The Orphan Fund does not support individual orphans, but all orphans during their time at St Michael’s.
 
-The Orphan Fund does not support individual orphans, but all orphans at St Michael’s School.
-
-The children live at the school, St Michael’s is their home and they are looked after by the Sisters in the convent during the holidays.
+Some children live at the school, St Michael’s is their home and many are looked after by the Rev. Sisters in the convent during the school holidays.
