@@ -1,17 +1,13 @@
 ---
 layout: page
-title: 'School Garden'
-image: 
-  name: 'school-gardeners.jpg'
-  alt: 'Children gardening'
+title: School Garden/Farm
+image:
+  name: school-gardeners.jpg
+  alt: Children gardening
+date: 2018-03-26 17:27:24 +0000
 ---
-
 <a href="{{ site.url }}{{ site.baseurl }}/assets/images/{{ page.image.name }}"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/{{ page.image.name }}" style="object-fit: cover; height: 500px; width: 100%;" /></a>
 
-The gardens at the school have been developed thanks to a grant from Seeds for Africa.
+**School Gardens/Farm**
 
-The school has now been able to grow pineapples, mangoes, orange trees, avocado and lots more.
-
-This will take time to develop and the hope is for the girls to reap the benefit by helping to work in the garden and in turn enjoy the nutritional benefit of the fruit.
-
-We hope to extend the land and grow more fruit and vegetables, and eventually grow food which will be season all year round and which can help feed the girls on a more regular basis.
+It has been a challenge for us to know how best to support the School Gardens/Farm. There is a good amount of land at the school, and other land close by available to rent. We fund the salary of a Manager to oversee the workers in the gardens and farm.  The common aim between the School Management Committee and Friends of St Michael’s is that we want the gardens and farm to be a centre of excellence - a place of learning and a Demonstration Garden/Farm for the community. There have been several severe droughts and of course these have an impact on the next growing seasons. We will continue to support and press for improvements, but in reality there will be several years of work ahead of us to achieve this goal. 
