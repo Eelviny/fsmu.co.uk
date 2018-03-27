@@ -2,6 +2,7 @@
 layout: gallery
 title: Gallery
 images:
+- "/assets/images/librarybook.jpg"
 - 046.jpg
 - 072.jpg
 - 114_6144.jpg
@@ -35,13 +36,11 @@ images:
 - DSCF3900.jpg
 - DSCF7458.jpg
 - Fiona-Beach-MacGeagh.jpg
-- for-st-michaels.jpg
 - happy-children.jpg
 - hoeing.jpg
 - IMG_0428-1024x683.jpg
 - jenny-keith-trip.jpg
 - Kay-with-girls.jpg
-- library.jpg
 - liz-house.jpg
 - Lizzie-Uganda-Aug-2009-3451.jpg
 - lizzie-uganda.jpg
