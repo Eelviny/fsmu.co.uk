@@ -8,7 +8,7 @@ layout: page
 
 #### Background to the Charity
 
-Friends of St. Michael's was registered with the Charities Commission in 2009. Fiona, a Trustee, had a successful and formative time at St. Michael’s in her Gap Year in 2002. She returned to the school every year and started the building of the library. Other visits followed by members of her family and friends -  all being moved by the love and friendship they received, and the drive and desire to do something to help.
+Friends of St. Michael's was registered with the Charity Commission in 2009. Fiona, a Trustee, had a successful and formative time at St. Michael’s in her Gap Year in 2002. She returned to the school every year and started the building of the library. Other visits followed by members of her family and friends -  all being moved by the love and friendship they received, and the drive and desire to do something to help.
 
 <div class="grid-x"> <div class="cell medium-4"> <a href="{{ site.url }}{{ site.baseurl }}/assets/images/logo.svg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/logo.svg" alt="logo" /></a> </div> <div class="cell medium-8"> <p>It was decided that the best way to give a clear focus to the efforts to support the school, both in practical ways on the ground and to help with fundraising, was to form a charity.
 
