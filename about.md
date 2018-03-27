@@ -24,8 +24,6 @@ We are a small “kitchen table” UK registered charity. By this we mean we hav
 
 At least 2 of the trustees travel to Namunyumya to oversee the projects every year and all donations are used in support of our Charitable Objectives. We feel strongly that all money given to the charity goes to help the schools and and the village of  Namunyumya.
 
-Trustees fund their own travel.
-
 We work closely with St Michael’s and the other village schools, staff, parents and school management and the village of Namunyumya to ensure that all money and gifts are being spent wisely and on projects that are sustainable.
 
 Communication with the schools and community takes place frequently. In this way our support can be focused, relevant and up to date.
@@ -38,21 +36,21 @@ Vicki does the co-ordination in the UK and gives Talks to encourage donations. H
 
 **Fiona Beach-MacGeagh - Trustee**
 
-Fiona first went to St Michael's in 2002 to volunteer at the school for four months - since then she has returned each year. 
+Fiona first went to St Michael's in 2002 to volunteer at the school for four months - since then she has returned each year.
 
-She has a special relationship with all the staff and girls and a very good understanding of how we can support and encourage the school/community. 
+She has a special relationship with all the staff and girls and a very good understanding of how we can support and encourage the school/community.
 
-In the UK she has been working in Education for over eight years and is currently working  for a school in Wiltshire and is very passionate about the education of girls. 
+In the UK she has been working in Education for over eight years and is currently working  for a school in Wiltshire and is very passionate about the education of girls.
 
 **Matthew Devlin - Trustee**
 
 Matthew is our Treasurer and the Chair of our Board of Trustees. He very much enjoyed his first visit to St. Michael’s in 2013 and looks forward to the opportunity of seeing the many good changes made since then.
 
-Matthew retired from a career covering international banking, management consultancy and charity management. As well as all the work he does for FSMU he also supports a national network of charities helping those coming out of prison to settle into new lives in their communities. 
+Matthew retired from a career covering international banking, management consultancy and charity management. As well as all the work he does for FSMU he also supports a national network of charities helping those coming out of prison to settle into new lives in their communities.
 
 **Julian George - Trustee**
 
-Julian is a retired senior partner of a large law firm in the West Country. He brings his legal knowledge and managerial expertise to the charity. 
+Julian is a retired senior partner of a large law firm in the West Country. He brings his legal knowledge and managerial expertise to the charity.
 
 **Mary Morrison - Trustee**
 
