@@ -24,7 +24,7 @@ We are a small “kitchen table” UK registered charity. By this we mean we hav
 
 At least 2 of the trustees travel to Namunyumya to oversee the projects every year and all donations are used in support of our Charitable Objectives. We feel strongly that all money given to the charity goes to help the schools and and the village of  Namunyumya.
 
-We work closely with St Michael’s and the other village schools, staff, parents and school management and the village of Namunyumya to ensure that all money and gifts are being spent wisely and on projects that are sustainable.
+We work closely with St Michael’s and the other village schools, staff, parents and school managements and the village of Namunyumya to ensure that all money and gifts are being spent wisely and on projects that are sustainable.
 
 Communication with the schools and community takes place frequently. In this way our support can be focused, relevant and up to date.
 
@@ -40,7 +40,7 @@ Fiona first went to St Michael's in 2002 to volunteer at the school for four mon
 
 She has a special relationship with all the staff and girls and a very good understanding of how we can support and encourage the school/community.
 
-In the UK she has been working in Education for over eight years and is currently working for a school in Wiltshire and is very passionate about the education of girls.
+In the UK she has been working in education for over eight years and is currently working at a school in Wiltshire. She is very passionate about the education of girls.
 
 **Matthew Devlin - Trustee**
 
