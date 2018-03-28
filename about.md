@@ -36,7 +36,7 @@ Vicki does the co-ordination in the UK and gives Talks to encourage donations. H
 
 **Fiona Beach-MacGeagh - Trustee**
 
-![]({{ site.baseurl }}/assets/images/EDEC1C7B-7D66-4DE1-963B-8AE7F8470246.jpeg)
+![]({{ site.baseurl }}/assets/images/45FA4732-AFEE-4F8E-8B05-07D92AAE0D54.jpeg)
 
 Fiona first went to St Michael's in 2002 to volunteer at the school for four months - since then she has returned each year. She has a special relationship with all the staff and girls and a very good understanding of how we can support and encourage the school/community.
 
@@ -56,19 +56,19 @@ Julian is a retired senior partner of a large law firm in the West Country. He b
 
 **Mary Morrison - Trustee**
 
-![]({{ site.baseurl }}/assets/images/B9A8E4FD-9B15-4F2A-9D4C-2287104E9B09.jpeg)
+![]({{ site.baseurl }}/assets/images/E888B20F-3E7B-46DF-A9B3-91779EF538A3.jpeg)
 
 Mary is a Teacher specialising in Educational Support. She has visited St Michael’s several times running several successful teachers’ training workshops.
 
 **Sue-Lyn Cashman-Pugsley - Trustee**
 
-**![]({{ site.baseurl }}/assets/images/280BD9F2-6737-4FC5-8F19-9A03BC885014.jpeg)**
+![]({{ site.baseurl }}/assets/images/0F205643-4AA8-403F-9149-F32FDB4D00F3.jpeg)
 
 Sue Lyn is a lawyer working in Sussex. Her first visit to St. Michael's was in 2015. During this visit she assisted the orphans with their reading, organised a class debate, helped the Sisters with administrative tasks. She has since return for a second visit. The experiences she had at the school were truly life changing and she is determined to use her professional skills for the benefit of the charity.
 
 **Kay Hudson - Ambassador**
 
-![]({{ site.baseurl }}/assets/images/2ADCA372-9CF2-41EE-A235-CF830DB5F19A.jpeg)
+![]({{ site.baseurl }}/assets/images/D30A1E62-D1A3-49DC-8558-51A2BCC5AB1A.jpeg)
 
 Kay first travelled to St. Michael’s with Lizzie Beach-Macgeagh in 2009. They spent a blissful month doing sport and crafts with the girls during the girls’ long school holiday.
 
