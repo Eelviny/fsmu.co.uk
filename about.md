@@ -42,7 +42,9 @@ Fiona first went to St Michael's in 2002 to volunteer at the school for four mon
 
 In the UK she has been working in education for over eight years and is currently working at a school in Wiltshire. She is very passionate about the education of girls.
 
-**Matthew Devlin - Trustee**![](/assets/images/matthew-devlin.jpg)
+**Matthew Devlin - Trustee**
+
+![]({{ site.baseurl }}/assets/images/3E49700D-B478-4E77-A08C-DDAF91CE8E59.jpeg)
 
 Matthew is our Treasurer and the Chair of our Board of Trustees. He very much enjoyed his first visit to St. Michael’s in 2013 and looks forward to the opportunity of seeing the many good changes made since then.
 
@@ -50,7 +52,7 @@ Matthew retired from a career covering international banking, management consult
 
 **Julian George - Trustee**
 
-![](/assets/images/for-st-michaels.jpg)
+![]({{ site.baseurl }}/assets/images/8164CB17-1BDF-4185-8C20-DE9A777E7E50.jpeg)
 
 Julian is a retired senior partner of a large law firm in the West Country. He brings his legal knowledge and managerial expertise to the charity.
 
