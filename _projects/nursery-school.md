@@ -5,9 +5,11 @@ section: news
 date: 2018-03-27 00:00:00 +0000
 image:
   url: ''
-  alt: ''
-  name: ''
+  alt: St. Michael's Nursery Classroom
+  name: "/assets/images/ADB3DC62-9E53-40F6-853E-169A744080AD.jpeg"
 ---
+<a href="{{ site.url }}{{ site.baseurl }}/assets/images/{{ page.image.name }}"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/{{ page.image.name }}" style="object-fit: cover; height: 500px; width: 100%;" /></a>
+
 The government wants Nursery education in all primary schools. There is little or no government funding to help and parents need to pay fees for these 3 years. With little guidance, and training in Early Childhood Development in its infancy, this has brought many challenges.
 
 The St. Michael’s Nursery opened in 2015 using the School Dining/Examination Hall - There are now 110 children - but at the moment only 4 nursery teachers.
