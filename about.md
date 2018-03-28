@@ -30,7 +30,7 @@ Communication with the schools and community takes place frequently. In this way
 
 Here in the UK the charity is managed by the 6 trustees who meet regularly.
 
-**Vicki Beach - Trustee**
+**Vicki Beach - Trustee![](/assets/images/Vicki-Beach-for-FSMU-website.jpg)**
 
 Vicki does the co-ordination in the UK and gives Talks to encourage donations. Her first visit to St Michael’s was in 2007 and she travels to St Michael’s every year - She works closely with the school and the community to discuss progress and the challenges ahead.  She is in charge of appraisals/feedback of all the projects we fund.
 
@@ -40,13 +40,15 @@ Fiona first went to St Michael's in 2002 to volunteer at the school for four mon
 
 In the UK she has been working in education for over eight years and is currently working at a school in Wiltshire. She is very passionate about the education of girls.
 
-**Matthew Devlin - Trustee**
+**Matthew Devlin - Trustee**![](/assets/images/matthew-devlin.jpg)
 
 Matthew is our Treasurer and the Chair of our Board of Trustees. He very much enjoyed his first visit to St. Michael’s in 2013 and looks forward to the opportunity of seeing the many good changes made since then.
 
 Matthew retired from a career covering international banking, management consultancy and charity management. As well as all the work he does for FSMU he also supports a national network of charities helping those coming out of prison to settle into new lives in their communities.
 
 **Julian George - Trustee**
+
+![](/assets/images/for-st-michaels.jpg)
 
 Julian is a retired senior partner of a large law firm in the West Country. He brings his legal knowledge and managerial expertise to the charity.
 
