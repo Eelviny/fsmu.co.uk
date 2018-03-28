@@ -5,8 +5,8 @@ section: news
 date: 2018-03-27 00:00:00 +0000
 image:
   url: ''
-  alt: ''
-  name: ''
+  alt: Bishop Willigers Secondary School
+  name: "/assets/images/FC025664-60E7-4498-95C4-21A473895253.jpeg"
 ---
 <a href="{{ site.url }}{{ site.baseurl }}/assets/images/{{ page.image.name }}"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/{{ page.image.name }}" style="object-fit: cover; height: 500px; width: 100%;" /></a>
 
