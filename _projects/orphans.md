@@ -2,8 +2,8 @@
 layout: page
 title: Orphans
 image:
-  name: happy-children.jpg
-  alt: Surrounded by children
+  name: "/assets/images/C0ACB1A5-6A86-4988-AC58-8A4A5533E66D.jpeg"
+  alt: Some of the Orphans
 date: 2018-03-26 17:27:24 +0000
 ---
 <a href="{{ site.url }}{{ site.baseurl }}/assets/images/{{ page.image.name }}"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/{{ page.image.name }}" style="object-fit: cover; height: 500px; width: 100%;" /></a>
