@@ -2,7 +2,7 @@
 layout: page
 title: Sewing/Craft Room
 image:
-  name: lizzie-uganda.jpg
+  name: "/assets/images/513228F7-0209-4153-ACBE-3EB94718E870.jpeg"
   alt: Crafting
 date: 2018-03-26 17:27:24 +0000
 ---
