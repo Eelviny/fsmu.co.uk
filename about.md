@@ -30,7 +30,9 @@ Communication with the schools and community takes place frequently. In this way
 
 Here in the UK the charity is managed by the 6 trustees who meet regularly.
 
-**Vicki Beach - Trustee![](/assets/images/Vicki-Beach-for-FSMU-website.jpg)**
+**Vicki Beach - Trustee**
+
+**![]({{ site.baseurl }}/assets/images/A6B6377E-E0F6-4C62-909B-188DB791623E.jpeg)![](/assets/images/Vicki-Beach-for-FSMU-website.jpg)**
 
 Vicki does the co-ordination in the UK and gives Talks to encourage donations. Her first visit to St Michael’s was in 2007 and she travels to St Michael’s every year - She works closely with the school and the community to discuss progress and the challenges ahead.  She is in charge of appraisals/feedback of all the projects we fund.
 
