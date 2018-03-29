@@ -3,7 +3,7 @@ layout: page
 title: Sewing/Craft Room
 image:
   name: "/assets/images/513228F7-0209-4153-ACBE-3EB94718E870.jpeg"
-  alt: Crafting
+  alt: Day Girls Knitting Club
 date: 2018-03-26 17:27:24 +0000
 ---
 <a href="{{ site.url }}{{ site.baseurl }}/assets/images/{{ page.image.name }}"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/{{ page.image.name }}" style="object-fit: cover; height: 500px; width: 100%;" /></a>
