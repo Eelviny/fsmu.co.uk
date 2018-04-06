@@ -14,4 +14,4 @@ So many of her friends and family knew how much she loved the girls at St. Micha
 
 We fund a broad spectrum of medical supplies and medicines. Also the salary of one of the two full time resident nurses. Malaria testing and fast drug treatment is essential to save lives.  Some terms there are over 100 girls testing positive for malaria (each Malaria Testing Kits costs about 70p) and these girls need immediate treatment with ACT drugs.
 
-Uganda has the third-highest death rate from malaria in Africa and some of the highest recorded malaria transmission rates on the continent. **Malaria is Africa’s leading cause of mortality in children**.
+Uganda has some of the highest recorded malaria transmission rates on the continent. **Malaria is Africa’s leading cause of mortality in children**.
