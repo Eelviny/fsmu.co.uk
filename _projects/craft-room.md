@@ -26,4 +26,4 @@ Solivia and some of the older girls now make washable reuseable pads out of micr
 
 If you have any knitting needles, wool, fabric and haberdashery that you no longer require, then we will be able to find a happy home for them in the craft room. Please get in touch with us through our Contact Page.
 
-![](/assets/images/lizzie-uganda.jpg)
+![]({{ site.baseurl }}/assets/images/513228F7-0209-4153-ACBE-3EB94718E870.jpeg)
