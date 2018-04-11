@@ -2,11 +2,11 @@
 layout: page
 title: The Okwasa Project - Outreach
 image:
-  name: 3pots.jpg
+  name: /assets/images/3pots.jpg
   alt: Okwasa Crafts
 date: 2018-03-26 17:27:24 +0000
 ---
-<a href="{{ site.url }}{{ site.baseurl }}/assets/images/{{ page.image.name }}"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/{{ page.image.name }}" style="object-fit: cover; height: 500px; width: 100%;" /></a>
+<a href="{{ site.url }}{{ site.baseurl }}{{ page.image.name }}"><img src="{{ site.url }}{{ site.baseurl }}{{ page.image.name }}" style="object-fit: cover; height: 500px; width: 100%;" /></a>
 
 <div class="callout">
 <p class="lead">Okwasa - To light a fire <em>(Lugandan)</em></p>

@@ -6,7 +6,7 @@ image:
   alt: Enjoying Craft Time
 date: 2018-03-26 17:27:24 +0000
 ---
-<a href="{{ site.url }}{{ site.baseurl }}/assets/images/{{ page.image.name }}"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/{{ page.image.name }}" style="object-fit: cover; height: 500px; width: 100%;" /></a>
+<a href="{{ site.url }}{{ site.baseurl }}{{ page.image.name }}"><img src="{{ site.url }}{{ site.baseurl }}{{ page.image.name }}" style="object-fit: cover; height: 500px; width: 100%;" /></a>
 
 The Sewing/Craft Room was built and equipped in 2011 to teach the girls basic sewing skills to repair their uniform + clothing and if interested to start to learn how to make their own clothes. Only a small number of the girls that attend St Michael’s will go on to secondary school. Sewing gives the girls who do drop out of education a skill to take with them when they return to their homes.
 

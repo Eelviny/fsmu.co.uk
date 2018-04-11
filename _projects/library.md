@@ -2,11 +2,11 @@
 layout: page
 title: Library
 image:
-  name: librarybook.jpg
+  name: /assets/images/librarybook.jpg
   alt: Child reading a book
 date: 2018-03-26 17:27:24 +0000
 ---
-<a href="{{ site.url }}{{ site.baseurl }}/assets/images/{{ page.image.name }}"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/{{ page.image.name }}" style="object-fit: cover; height: 500px; width: 100%;" /></a>
+<a href="{{ site.url }}{{ site.baseurl }}{{ page.image.name }}"><img src="{{ site.url }}{{ site.baseurl }}{{ page.image.name }}" style="object-fit: cover; height: 500px; width: 100%;" /></a>
 
 Fiona, one of our trustees, started the the building of the Library in 2002. The Library was completed in 2007. Over 5,000 books were shipped out from the UK.
 

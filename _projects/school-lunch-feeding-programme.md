@@ -2,11 +2,11 @@
 layout: page
 title: Bowl of Porridge
 image:
-  name: school-food.jpg
+  name: /assets/images/school-food.jpg
   alt: Children receiving food'
 date: 2018-03-26 17:27:24 +0000
 ---
-<a href="{{ site.url }}{{ site.baseurl }}/assets/images/{{ page.image.name }}"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/{{ page.image.name }}" style="object-fit: cover; height: 500px; width: 100%;" /></a>
+<a href="{{ site.url }}{{ site.baseurl }}{{ page.image.name }}"><img src="{{ site.url }}{{ site.baseurl }}{{ page.image.name }}" style="object-fit: cover; height: 500px; width: 100%;" /></a>
 
 The School Lunch Feeding Programme started in 2008, with the aim to give all day girls a bowl of porridge. Within a year we were able to give all the 500 day girls a bowl of maize porridge each day at school.
 

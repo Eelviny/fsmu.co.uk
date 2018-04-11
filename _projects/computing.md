@@ -2,11 +2,11 @@
 layout: page
 title: Computing
 image:
-  name: onthecomputer.jpg
+  name: /assets/images/onthecomputer.jpg
   alt: Children using a computer
 date: 2018-03-26 17:27:24 +0000
 ---
-<a href="{{ site.url }}{{ site.baseurl }}/assets/images/{{ page.image.name }}"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/{{ page.image.name }}" style="object-fit: cover; height: 500px; width: 100%;" /></a>
+<a href="{{ site.url }}{{ site.baseurl }}{{ page.image.name }}"><img src="{{ site.url }}{{ site.baseurl }}{{ page.image.name }}" style="object-fit: cover; height: 500px; width: 100%;" /></a>
 
 With computers becoming more and more integral to our way of life, it makes sense to allow the school children access to it to. By giving the pupils of the school the essential skills to work within a typical office environment and beyond, the girls are able to potentially find their way into higher paying jobs in a country where the IT infrastructure is still in heavy development.
 

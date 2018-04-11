@@ -8,7 +8,7 @@ image:
   alt: Latrines
   name: "/assets/images/297FCC86-B27C-4E86-8249-C24560062434.jpeg"
 ---
-<a href="{{ site.url }}{{ site.baseurl }}/assets/images/{{ page.image.name }}"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/{{ page.image.name }}" style="object-fit: cover; height: 500px; width: 100%;" /></a>
+<a href="{{ site.url }}{{ site.baseurl }}{{ page.image.name }}"><img src="{{ site.url }}{{ site.baseurl }}{{ page.image.name }}" style="object-fit: cover; height: 500px; width: 100%;" /></a>
 
 As a charity we are much more focused on the needs of the child rather than building work - but it is inevitable that from time to time we need to do renovations or build something new. 
 

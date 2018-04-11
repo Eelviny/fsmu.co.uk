@@ -8,7 +8,7 @@ image:
   alt: St. Michael's Nursery Classroom
   name: "/assets/images/Nursery.png"
 ---
-<a href="{{ site.url }}{{ site.baseurl }}/assets/images/{{ page.image.name }}"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/{{ page.image.name }}" style="object-fit: cover; height: 500px; width: 100%;" /></a>
+<a href="{{ site.url }}{{ site.baseurl }}{{ page.image.name }}"><img src="{{ site.url }}{{ site.baseurl }}{{ page.image.name }}" style="object-fit: cover; height: 500px; width: 100%;" /></a>
 
 The government wants Nursery education in all primary schools. There is little or no government funding to help and parents need to pay fees for these 3 years. With little guidance, and training in Early Childhood Development in its infancy, this has brought many challenges.
 

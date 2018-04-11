@@ -22,7 +22,7 @@ title: 'Projects'
 {% for project in site.projects %}
 <div id="{{ project.title | slugify }}" class="grid-x grid-margin-x" style="margin-bottom: 1rem;">
   <div class="cell medium-3">
-    <a href="{{ project.url }}"><img style="object-fit: cover; height: 200px; width: 100%;" src="{{ site.url }}{{ site.baseurl }}/assets/images/{{ project.image.name }}" alt="{{ project.image.alt }}" /></a>
+    <a href="{{ project.url }}"><img style="object-fit: cover; height: 200px; width: 100%;" src="{{ site.url }}{{ site.baseurl }}{{ project.image.name }}" alt="{{ project.image.alt }}" /></a>
   </div>
   <div class="cell medium-9">
     <a href="{{ project.url }}"><h3>{{ project.title }}</h3></a>

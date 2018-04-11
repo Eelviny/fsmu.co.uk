@@ -2,11 +2,11 @@
 layout: page
 title: School Medical Centre - Liz's Place
 image:
-  name: liz-house.jpg
+  name: /assets/images/liz-house.jpg
   alt: Liz's Place
 date: 2018-03-26 17:27:24 +0000
 ---
-<a href="{{ site.url }}{{ site.baseurl }}/assets/images/{{ page.image.name }}"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/{{ page.image.name }}" style="object-fit: cover; height: 500px; width: 100%;" /></a>
+<a href="{{ site.url }}{{ site.baseurl }}{{ page.image.name }}"><img src="{{ site.url }}{{ site.baseurl }}{{ page.image.name }}" style="object-fit: cover; height: 500px; width: 100%;" /></a>
 
 In 2010 Lizzie Beach-MacGeagh, daughter and sister of two of our trustees, was killed by a hit and run driver in London.  Lizzie loved Uganda and spent two happy visits at the school and was in the process of planning another trip after University.
 
