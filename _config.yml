@@ -41,6 +41,8 @@ menu:
     link: /projects
   - name: News
     link: /news
+  - name: Volunteers
+    link: /volunteers
   - name: Gallery
     link: /gallery
   - name: Contact
