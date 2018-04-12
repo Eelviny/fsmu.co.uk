@@ -8,6 +8,4 @@ image:
   alt: The girls having Lunch
   name: "/assets/images/sized for web.jpg"
 ---
-Thank you for all the support 
-
 ![]({{ site.baseurl }}/assets/images/sized for web.jpg)
