@@ -2,7 +2,7 @@
 layout: page
 title: Orphans
 image:
-  name: "/assets/images/C0ACB1A5-6A86-4988-AC58-8A4A5533E66D.jpeg"
+  name: "/assets/images/DA8E53C4-FDAA-4DCD-B420-05C934DE5ECB.jpeg"
   alt: Some of the Orphans
 date: 2018-03-26 17:27:24 +0000
 ---

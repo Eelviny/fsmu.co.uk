@@ -38,6 +38,7 @@ pages:
 - _posts/2017-12-17-let-your-living-water.md
 - _posts/2017-12-17-visitors-for-2014.md
 hide_body: false
+is_partial: false
 fields:
 - name: title
   label: Title
