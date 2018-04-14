@@ -1,5 +1,5 @@
 ---
-title: 1,000,000 SCHOOL LUNCHES AND COUNTING
+title: The Success of 10 years of School Lunches
 layout: post
 section: news
 date: 2018-04-05 00:00:00 +0000
