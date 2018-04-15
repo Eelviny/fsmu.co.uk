@@ -6,7 +6,6 @@ image:
   alt: Jenny Cooking with some girls
   url: ''
 section: news
-date: Invalid date
 ---
 <a href="{{ site.url }}{{ site.baseurl }}{{ page.image.name }}"><img src="{{ site.url }}{{ site.baseurl }}{{ page.image.name }}" style="object-fit: cover; height: 500px; width: 100%;" /></a>
 
