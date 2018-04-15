@@ -3,7 +3,7 @@ title: Volunteers
 layout: page
 image:
   name: "/assets/images/12CB21EB-88B9-4721-99CD-7E537DCBC733.jpeg"
-  alt: Jenny Cooking with some of the girls
+  alt: Jenny Cooking with some girls
   url: ''
 section: news
 date: Invalid date
