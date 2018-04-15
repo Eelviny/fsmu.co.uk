@@ -2,8 +2,8 @@
 layout: page
 title: Orphans
 image:
-  name: "/assets/images/DA8E53C4-FDAA-4DCD-B420-05C934DE5ECB.jpeg"
-  alt: Some of the Orphans
+  name: "/assets/images/E9A1B4C9-FE22-43BE-80D0-2B4C376A41C0.jpeg"
+  alt: An orphan
 date: 2018-03-26 17:27:24 +0000
 ---
 <a href="{{ site.url }}{{ site.baseurl }}{{ page.image.name }}"><img src="{{ site.url }}{{ site.baseurl }}{{ page.image.name }}" style="object-fit: cover; height: 500px; width: 100%;" /></a>
