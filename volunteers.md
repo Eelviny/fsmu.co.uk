@@ -6,7 +6,7 @@ image:
   alt: ''
   url: ''
 section: news
-date: Invalid date
+date: ''
 ---
 **Volunteers**
 
