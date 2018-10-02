@@ -1,42 +1,5 @@
 ---
-pages:
-- _projects/nursery-school.md
-- _projects/bishop-willigers-secondary-school.md
-- _projects/buildings-renovations.md
-- _projects/volunteers.md
-- volunteers.md
-- _posts/2018-04-05-one-million-school-lunches-and-counting.md
-- _posts/2018-03-28-testing-post-123.md
-- _posts/2017-12-17-st-francis-school-pewsy.md
-- _posts/2017-12-17-abby-turner-went-in-2012-read-her-review.md
-- _posts/2017-12-17-2014-half-yearly-report.md
-- _posts/2017-12-17-fiona-s-trip-in-august-2013.md
-- _posts/2017-12-17-stuart-beech-my-first-trip-to-st-michaels-august-2013.md
-- _posts/2017-12-17-short-reflections-on-the-easter-2013-trip.md
-- _posts/2017-12-17-fund-raising-event-held-at-british-airways-flying.md
-- _posts/2017-12-17-2013-easter-trip-to-st-michael-s.md
-- _posts/2017-12-17-the-visit-of-andrew-mugabi.md
-- _posts/2017-12-17-exam-results-january-2013.md
-- _posts/2017-12-17-2014-annual-report.md
-- _posts/2017-12-17-2014-thank-you.md
-- _posts/2017-12-17-vicki-nick-s-trip-february-2014-what-a-good-one.md
-- _posts/2017-12-17-mary-morrison-teacher-education-sharing-and-learning.md
-- _posts/2017-12-17-bath-half-marathon-2013.md
-- _posts/2017-12-17-welcome-to-the-new-website.md
-- _posts/2017-12-17-projects-around-the-school.md
-- _posts/2017-12-17-jenny-and-keith-fryer-february-march-2017.md
-- _posts/2017-12-17-st-michael-s-nursery-school.md
-- _posts/2017-12-17-heads-in-the-sand-marathon-des-sables-the-toughest-footrace-on-earth.md
-- _posts/2017-12-17-liz-s-place-the-school-medical-centre.md
-- _posts/2017-12-17-bishop-willigers-secondary-school.md
-- _posts/2017-12-17-the-dorm-project-boys.md
-- _posts/2017-12-17-the-porridge-pot.md
-- _posts/2017-12-17-a-new-washroom-thanks-to-cares-4-kids.md
-- _posts/2017-12-17-the-barn-dance-goes-live.md
-- _posts/2017-12-17-merry-christmas.md
-- _posts/2017-12-17-volunteers-down-the-years.md
-- _posts/2017-12-17-let-your-living-water.md
-- _posts/2017-12-17-visitors-for-2014.md
+label: Post Template
 hide_body: false
 is_partial: false
 fields:
@@ -81,3 +44,41 @@ fields:
   type: datetime
   hidden: false
   default: Invalid date
+pages:
+- _posts/2017-12-17-2013-easter-trip-to-st-michael-s.md
+- _posts/2017-12-17-volunteers-down-the-years.md
+- _posts/2017-12-17-fund-raising-event-held-at-british-airways-flying.md
+- _posts/2017-12-17-bath-half-marathon-2013.md
+- _posts/2017-12-17-merry-christmas.md
+- _posts/2017-12-17-2014-thank-you.md
+- _posts/2017-12-17-2014-half-yearly-report.md
+- _projects/bishop-willigers-secondary-school.md
+- _projects/nursery-school.md
+- _posts/2017-12-17-mary-morrison-teacher-education-sharing-and-learning.md
+- _posts/2017-12-17-st-michael-s-nursery-school.md
+- _posts/2017-12-17-the-dorm-project-boys.md
+- _posts/2017-12-17-visitors-for-2014.md
+- _posts/2017-12-17-heads-in-the-sand-marathon-des-sables-the-toughest-footrace-on-earth.md
+- _posts/2017-12-17-abby-turner-went-in-2012-read-her-review.md
+- _posts/2017-12-17-vicki-nick-s-trip-february-2014-what-a-good-one.md
+- _posts/2017-12-17-let-your-living-water.md
+- _posts/2017-12-17-2014-annual-report.md
+- _posts/2017-12-17-fiona-s-trip-in-august-2013.md
+- _posts/2017-12-17-short-reflections-on-the-easter-2013-trip.md
+- _posts/2017-12-17-welcome-to-the-new-website.md
+- _posts/2017-12-17-the-visit-of-andrew-mugabi.md
+- _posts/2017-12-17-exam-results-january-2013.md
+- _posts/2017-12-17-liz-s-place-the-school-medical-centre.md
+- _posts/2017-12-17-st-francis-school-pewsy.md
+- _posts/2017-12-17-projects-around-the-school.md
+- _posts/2017-12-17-bishop-willigers-secondary-school.md
+- _posts/2017-12-17-the-barn-dance-goes-live.md
+- _posts/2018-04-05-one-million-school-lunches-and-counting.md
+- _posts/2018-03-28-testing-post-123.md
+- _posts/2017-12-17-jenny-and-keith-fryer-february-march-2017.md
+- _posts/2017-12-17-the-porridge-pot.md
+- volunteers.md
+- _posts/2017-12-17-a-new-washroom-thanks-to-cares-4-kids.md
+- _projects/volunteers.md
+- _projects/buildings-renovations.md
+- _posts/2017-12-17-stuart-beech-my-first-trip-to-st-michaels-august-2013.md

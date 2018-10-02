@@ -1,6 +1,7 @@
 ---
 title: About
 layout: page
+
 ---
 ### About Us
 
@@ -104,3 +105,35 @@ St. Michael’s admits girls irrespective of religion or tribe. There are about
 Uganda’s population - if left unchecked- is set to rise from 42 million to 102 million by 2050! Educated girls in Uganda have on average 2.9 children as opposed to 6.5 children born to uneducated girls. So supporting and encouraging the education of girls is VITAL.
 
 The commitment of Friend's of St. Michael's is to continue to support this remarkable school where happiness, joy and love do co-exist with extreme poverty and deprivation. Education is the key for these girls to unlock their potential.
+
+**Privacy notice**
+
+ The Friends of St Michael’s School Busembatia Uganda (FSMU) shall only process your personal data where it is FSMU’s legitimate interests to do so or where you have otherwise provided your consent.
+
+If you enter your personal information into our ‘Contact Us’ form we shall use that information you provide to respond to your queries. 
+
+If you are a regular giver, the personal data FSMU shall process and store shall be your name, email address and address, if given. 
+
+If you provide a donation via Virgin Money Giving, FSMU shall only be provided your name, date of birth, address, telephone number and email address so we have the correct records for Gift Aid purposes. 
+
+You may provide to us directly or via the Virgin Money Giving website your consent to send you email communications about FSMU – such as details of our projects and newsletters. We will not send you these email communications unless you have consented to receiving them previously. 
+
+In the event that you choose to visit St Michael’s and the local community and participate in any of the projects, FSMU may share details of your participation in those projects in its newsletters and on its website. These details may include biographical details about yourself and photographs. FSMU shall only share these details where you have provided your consent to do so.
+
+FSMU takes appropriate technical and organisational security measures to ensure the security of your personal data. This includes password protecting relevant files.  We only process your personal information for as long as is necessary but this will depend on the context for which we hold your information.
+
+ 
+
+**Your rights**
+
+If you have previously provided your consent to FSMU processing your personal data, you may withdraw this consent at any time. FSMU will use reasonable endeavours to respond promptly to any such request.
+
+You have the right to request information about the personal data FSMU processes about you. 
+
+You have the right to change / correct the personal data we hold for you. 
+
+ **Contact**
+
+Please contact our Trustee Sue-Lyn at [suelyncp@gmail.com](mailto:suelyncp@gmail.com) if you have any questions or concerns about this Privacy Notice or would like to exercise any of your rights outlined above. Please ensure that the subject of any email states: “FSMU data protection”. If you do not have access to email please write to Sue-Lyn at 6 Mile Oak Crescent, Southwick, BN42 4QP.  
+
+    y><�%><��
