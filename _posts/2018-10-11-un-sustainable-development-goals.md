@@ -9,3 +9,4 @@ image:
   name: "/assets/images/resized 3.JPG"
 
 ---
+![]({{ site.baseurl }}/assets/images/resized 3.JPG)
