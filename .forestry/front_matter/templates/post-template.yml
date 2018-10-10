@@ -45,6 +45,7 @@ fields:
   hidden: false
   default: Invalid date
 pages:
+- _posts/update.md
 - _posts/2017-12-17-2013-easter-trip-to-st-michael-s.md
 - _posts/2017-12-17-volunteers-down-the-years.md
 - _posts/2017-12-17-fund-raising-event-held-at-british-airways-flying.md
