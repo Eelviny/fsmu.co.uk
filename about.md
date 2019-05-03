@@ -106,7 +106,7 @@ Uganda’s population - if left unchecked- is set to rise from 42 million to 102
 
 The commitment of Friend's of St. Michael's is to continue to support this remarkable school where happiness, joy and love do co-exist with extreme poverty and deprivation. Education is the key for these girls to unlock their potential.
 
-**Privacy notice**
+#### Privacy notice
 
 The Friends of St Michael’s School Busembatia Uganda (FSMU) shall only process your personal data where it is FSMU’s legitimate interests to do so or where you have otherwise provided your consent.
 
@@ -133,5 +133,3 @@ You have the right to change / correct the personal data we hold for you.
 **Contact**
 
 Please contact our Trustee Sue-Lyn at [suelyncp@gmail.com](mailto:suelyncp@gmail.com) if you have any questions or concerns about this Privacy Notice or would like to exercise any of your rights outlined above. Please ensure that the subject of any email states: “FSMU data protection”. If you do not have access to email please write to Sue-Lyn at 6 Mile Oak Crescent, Southwick, BN42 4QP.
-
-    
