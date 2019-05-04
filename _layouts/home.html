@@ -40,7 +40,6 @@ pictures:
 </div>
 
 <div class="grid-container">
-  <h2 class="text-center">NEWS</h2>
   {% for post in site.posts limit:2 %}
   <a href="{{ post.url }}"><h3>{{ post.title }}</h3></a>
   <p class="text-justify">{{ post.excerpt }}</p>
