@@ -20,5 +20,3 @@ Sophie Turner's testimonial -_The whole experience was amazing. At first it took
 We have an Information Pack about volunteering, and what to expect.  Fill in the Contact Form if you would like more information - telling us a bit about yourself.
 
 ![/assets/images/47907FC5-980F-4E4C-848D-C303813E7C1F.jpeg](/assets/images/47907FC5-980F-4E4C-848D-C303813E7C1F.jpeg)![/assets/images/014CCB41-B60F-4693-B9DB-539BA3001717.jpeg](/assets/images/014CCB41-B60F-4693-B9DB-539BA3001717.jpeg)![/assets/images/boys-running.jpg](/assets/images/boys-running.jpg)
-
-## ![](/assets/images/boys-running.jpg)
