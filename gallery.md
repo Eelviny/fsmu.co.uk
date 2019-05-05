@@ -2,11 +2,9 @@
 layout: gallery
 title: Gallery
 images:
-- "/assets/images/librarybook.jpg"
 - 046.jpg
 - 072.jpg
 - 114_6144.jpg
-- 138.jpg
 - 426.jpg
 - boys-running.jpg
 - CIMG0598.jpg
