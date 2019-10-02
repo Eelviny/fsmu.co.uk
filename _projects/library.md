@@ -4,7 +4,7 @@ title: Library
 image:
   name: librarybook.jpg
   alt: Child reading a book
-date: 2018-03-26T17:27:24.369+00:00
+date: 2018-03-26 18:27:24 +0100
 
 ---
 <a href="{{ site.url }}{{ site.baseurl }}/assets/images/{{ page.image.name }}"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/{{ page.image.name }}" style="object-fit: cover; height: 500px; width: 100%;" /></a>
