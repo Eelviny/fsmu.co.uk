@@ -2,9 +2,10 @@
 layout: page
 title: Bowl of Porridge
 image:
-  name: /assets/images/school-food.jpg
+  name: "/assets/images/school-food.jpg"
   alt: Children receiving food'
-date: 2018-03-26 17:27:24 +0000
+date: 2018-03-25 00:00:00 +0000
+
 ---
 <a href="{{ site.url }}{{ site.baseurl }}{{ page.image.name }}"><img src="{{ site.url }}{{ site.baseurl }}{{ page.image.name }}" style="object-fit: cover; height: 500px; width: 100%;" /></a>
 
