@@ -2,21 +2,22 @@
 layout: page
 title: Library
 image:
-  name: /assets/images/librarybook.jpg
+  name: librarybook.jpg
   alt: Child reading a book
-date: 2018-03-26 17:27:24 +0000
+date: 2018-03-26T17:27:24.369+00:00
+
 ---
-<a href="{{ site.url }}{{ site.baseurl }}{{ page.image.name }}"><img src="{{ site.url }}{{ site.baseurl }}{{ page.image.name }}" style="object-fit: cover; height: 500px; width: 100%;" /></a>
+<a href="{{ site.url }}{{ site.baseurl }}/assets/images/{{ page.image.name }}"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/{{ page.image.name }}" style="object-fit: cover; height: 500px; width: 100%;" /></a>
 
 Fiona, one of our trustees, started the the building of the Library in 2002. The Library was completed in 2007. Over 5,000 books were shipped out from the UK.
 
-St Francis School in Pewsey, Wiltshire pays the salary of Evelyn, the Librarian. Evelyn is a graduate in Library and Information Science from Makerere University in Kampala. She ensures that the library is kept in good order, as well as supporting the girls with their reading and running reading groups, editing the school magazine and organising many other reading and spelling related activities.
+St Francis School in Pewsey, Wiltshire pays the salary of Sharon, the Librarian. Sharon is a graduate in Library and Information Science from Makerere University in Kampala. She ensures that the library is kept in good order, as well as supporting the girls with their reading and running reading groups, editing the school magazine and organising many other reading and spelling related activities.
 
 As English is not their first language, it is important that the whole school community have access to English reading materials for all levels of reading. All national exams are in English.
 
 **Spelling Bee**
 
-There is a National Spelling Bee Competition in Uganda -  In March 2017 a group of St Michael’s girls entered for the first time....We are really proud that Latifah got through to the National Finals in Kampala competing against other Regional Winners ...some competitors from very prestigious schools. She was knocked out in the 4th round - but we will continue to fund the books and travel for girls to enter this annual competition.  There was huge excitement at the school and in the village that a girl whose mother sells charcoal was good enough to make it through to the National Final - this is really empowering for all the girls, and there was a real buzz around the school for weeks.
+There is a National Spelling Bee Competition in Uganda -  We are really proud that St. Michael's girls do so well in this annual competition. Since entering for the first time in 2017 we have already had 4 finalists at the National Level and 1 finalist going forward to the East African Final.  There is huge excitement at the school and in the village that girls from St. Michael's are  good enough to make it through the rounds of this tough competition. This is really empowering for all the girls, and there is a real buzz around the school for weeks.
 
 <hr />
 
