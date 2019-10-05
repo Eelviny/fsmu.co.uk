@@ -2,9 +2,10 @@
 layout: page
 title: Library
 image:
-  name: librarybook.jpg
+  name: ''
   alt: Child reading a book
 date: 2018-03-25 18:27:24 +0100
+published: false
 
 ---
 <a href="{{ site.url }}{{ site.baseurl }}/assets/images/{{ page.image.name }}"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/{{ page.image.name }}" style="object-fit: cover; height: 500px; width: 100%;" /></a>
