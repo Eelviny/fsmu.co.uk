@@ -11,21 +11,20 @@ date: 2018-03-25 00:00:00 +0000
 
 The School Lunch Feeding Programme started in 2008, with the aim to give all day girls a bowl of porridge. Within a year we were able to give all the 500 day girls a bowl of maize porridge each day at school.
 
-This small meal makes a significant difference. Too many of the girls came to school without having breakfast - some having walked a long distance. They would have nothing to eat until they returned home in the late afternoon. 
+This small meal makes a significant difference. Too many of the girls came to school without having breakfast - some having walked a long distance. They would have nothing to eat until they returned home in the late afternoon.
 
 Results since starting the feeding programme:
 
 * **Better concentration in class**
-* **Improved attendance** 
-* **Better exam results** 
+* **Improved attendance**
+* **Better exam results**
 * **Staff are able to carry out their teaching more effectively**
-  
 
-Our charity was formed to start up and fund this project and it will always be our main focus. We are working with the staff and parents encouraging them to play an active part. 
+Our charity was formed to start up and fund this project and it will always be our main focus. We are working with the staff and parents encouraging them to play an active part.
 
 We are also funding School Lunches at Bishop Willigers Secondary School.
 
-We are also starting the funding of School Lunches at St. Mulumba's Primary School (next door to St Michael's) - 1100 pupils.
+We have also started the funding of School Lunches for 400 children at St. Mulumba's Primary School (next door to St Michael's) 
 
 ### Evaluation of the Feeding Programme and moving forward
 
