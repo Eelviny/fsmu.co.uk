@@ -1,12 +1,13 @@
 ---
-title: Jenny and Keith Fryer - February/March 2017
+title: 'Jenny and Keith Fryer - February/March '
 layout: post
 section: news
-date: 2017-04-20 16:20:52 +0100
+date: 2017-04-20T15:20:52.000+00:00
 image:
   url: ''
   alt: ''
   name: ''
+
 ---
 Jenny had been before, back in 2011 and we have photos and small reminders in our house, so I was prepared, or at least I thought so!
 
