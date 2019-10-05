@@ -2,7 +2,7 @@
 layout: page
 title: Library
 image:
-  name: librarybook.jpg
+  name: "/assets/images/librarybook.jpg"
   alt: Child reading a book
 date: 2018-03-25 18:27:24 +0100
 
