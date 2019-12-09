@@ -20,7 +20,7 @@ public_path: "{{ site.baseurl }}/assets/images"
 front_matter_path: "/assets/images"
 use_front_matter_path: true
 file_template: ":filename:"
-instant_preview: 
+instant_preview: true
 build:
   preview_env:
   - JEKYLL_ENV=staging
