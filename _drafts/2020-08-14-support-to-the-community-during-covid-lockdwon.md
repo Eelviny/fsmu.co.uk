@@ -9,4 +9,4 @@ image:
   name: ''
 
 ---
-##### ![]({{ site.baseurl }}/assets/images/photo-sunday-1.jpg)
+##### ![St. Michael's girl]({{ site.baseurl }}/assets/images/photo-sunday-1.jpg " One of the St. Michael's girls collecting her family's rations")
