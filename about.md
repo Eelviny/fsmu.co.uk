@@ -80,8 +80,7 @@ Matthew retired from a career covering international banking, management consult
 
 She has continued her relationship with the school ever since, and has made several more visits. She is delighted to be an ambassador and to continue volunteering at St. Michael’s.
 
-Kay runs our Twitter Account.</p>
-</div> </div>
+</p> </div> </div>
 
 ### About St. Michael's School
 
