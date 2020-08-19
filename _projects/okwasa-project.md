@@ -2,9 +2,10 @@
 layout: page
 title: The Okwasa Project - Outreach
 image:
-  name: /assets/images/3pots.jpg
+  name: "/assets/images/3pots.jpg"
   alt: Okwasa Crafts
-date: 2018-03-26 17:27:24 +0000
+date: 2018-03-26T17:27:24.000+00:00
+
 ---
 <a href="{{ site.url }}{{ site.baseurl }}{{ page.image.name }}"><img src="{{ site.url }}{{ site.baseurl }}{{ page.image.name }}" style="object-fit: cover; height: 500px; width: 100%;" /></a>
 
@@ -28,8 +29,5 @@ We are calling our Outreach Work in the Community - **The Okwasa Project** -
   **Moringa** is called **the Miracle Tree** and is very nutritious, and will supplement and improve the carbohydrate diet of the girls.
 
   ![]({{ site.baseurl }}/assets/images/7BCAB12E-C571-4F9E-B2E3-BB639E12B2F7.jpeg)
-* We are buying pots from the Babone Women’s Group - a craft group in the village- There are no tourists in this area of Uganda and therefore no market for their beautiful pots. We buy them at the price that we can sell them for in the UK - which means a fair price for the pot + extra so that they can diversify and develop other business ideas. Please get in touch if you would like one of these lovely pots by sending us a message on our Contact Page.
-
-Prices range from £7 - £12 depending on size.
 
 ![]({{ site.baseurl }}/assets/images/CBD34082-C034-4413-9B8C-E3CC20047DCA.jpeg)
