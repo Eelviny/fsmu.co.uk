@@ -2,6 +2,7 @@
 layout: gallery
 title: Gallery
 images:
+- photo-with-text.jpg
 - 046.jpg
 - 072.jpg
 - 114_6144.jpg
@@ -39,4 +40,5 @@ images:
 - uganda-176.jpg
 - uganda-2012-260.jpg
 - VisittoUgandaNov2013-024.jpg
+
 ---
