@@ -2,7 +2,7 @@
 layout: gallery
 title: Gallery
 images:
-- photo-with-text.jpg
+- 336-by-336.jpg
 - 046.jpg
 - 072.jpg
 - 114_6144.jpg
