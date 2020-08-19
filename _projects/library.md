@@ -7,7 +7,6 @@ image:
 date: 2018-03-25T18:27:24.000+01:00
 
 ---
-<a href="{{ site.url }}{{ site.baseurl }}/assets/images/{{ page.image.name }}"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/{{ page.image.name }}" style="object-fit: cover; height: 500px; width: 100%;" /></a>
 
 ![]({{ site.baseurl }}/assets/images/librarybook.jpg)
 
