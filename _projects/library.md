@@ -4,16 +4,20 @@ title: Library
 image:
   name: "/assets/images/librarybook.jpg"
   alt: Child reading a book
-date: 2018-03-25 18:27:24 +0100
+date: 2018-03-25T18:27:24.000+01:00
 
 ---
 <a href="{{ site.url }}{{ site.baseurl }}/assets/images/{{ page.image.name }}"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/{{ page.image.name }}" style="object-fit: cover; height: 500px; width: 100%;" /></a>
+
+![]({{ site.baseurl }}/assets/images/librarybook.jpg)
 
 Fiona, one of our trustees, started the the building of the Library in 2002. The Library was completed in 2007. Over 5,000 books were shipped out from the UK.
 
 St Francis School in Pewsey, Wiltshire pays the salary of Sharon, the Librarian. Sharon is a graduate in Library and Information Science from Makerere University in Kampala. She ensures that the library is kept in good order, as well as supporting the girls with their reading and running reading groups, editing the school magazine and organising many other reading and spelling related activities.
 
 As English is not their first language, it is important that the whole school community have access to English reading materials for all levels of reading. All national exams are in English.
+
+As of 2020 we are focusing all our efforts on all additional books for the library being cultural appropriate with strong African themes and content.
 
 **Spelling Bee**
 
