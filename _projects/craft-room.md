@@ -4,7 +4,8 @@ title: Sewing/Craft Room
 image:
   name: "/assets/images/lizzie-uganda.jpg"
   alt: Enjoying Craft Time
-date: 2018-03-26 17:27:24 +0000
+date: 2018-03-26T17:27:24.000+00:00
+
 ---
 <a href="{{ site.url }}{{ site.baseurl }}{{ page.image.name }}"><img src="{{ site.url }}{{ site.baseurl }}{{ page.image.name }}" style="object-fit: cover; height: 500px; width: 100%;" /></a>
 
@@ -20,7 +21,7 @@ Many of the older girls do not come to school when they have their periods, as t
 
 ![]({{ site.baseurl }}/assets/images/555E6FB0-4C34-495A-B89B-A9D479FAC7B0.jpeg)
 
-Solivia and some of the older girls now make washable reuseable pads out of microfleece.  There is also a supply of knickers for the girls who do not have them.
+Solivia and some of the older girls now make washable reuseable pads.  There is also a supply of knickers for the girls who do not have them.
 
 ### Donated Craft Material
 
