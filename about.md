@@ -15,7 +15,7 @@ Friends of St. Michael's was registered with the Charity Commission in 2009. Fio
 
 Bishop Willigers Secondary School is next door to St. Michael’s. To encourage transition from primary to secondary and help support the parents it was felt necessary to encompass Bishop Willigers SS and the immediate community into our charitable aims.</p>
 
-<p>The charity is education and welfare-focused -  to advance the education and welfare of the 600+ children at St. Michael's, the building and development of Bishop Willigers Secondary (100 pupils)  and to help the immediate community - the village of Namunyumya. As a small charity with no overheads, such as salaries or rent, we are able to ensure that all donations go to where they are needed.</p>
+<p>The charity is education and welfare-focused -  to advance the education and welfare of the 600+ children at St. Michael's, the building and development of Bishop Willigers Secondary (300 pupils)  and to help the immediate community - the village of Namunyumya. As a small charity with no overheads, such as salaries or rent, we are able to ensure that all donations go to where they are needed.</p>
 
 <p>At least 2 of the trustees travel out separately on an annual basis to oversee the various projects, sleeping at St. Michael's and getting involved with the life of the school and community. </p> </div> </div>
 
