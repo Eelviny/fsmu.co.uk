@@ -25,10 +25,11 @@ hero:
     the cause.
   link: See who we are
   url: "/about#about-us"
+
 ---
 St. Michael’s Primary School, Busembatia, Uganda is a government aided school about 88 miles from Kampala and situated in a remote and rural area.
 
-There are 600+ girls and 12 boys, both boarding and day scholars. Most come from desperately poor backgrounds and some are orphans who are given food and shelter by the school.
+There are 600+ girls, both boarding and day scholars. Most come from desperately poor backgrounds and some are orphans who are given food and shelter by the school.
 
 The charity was established in 2009 to provide on-going support, both practical and financial, to this amazing community.
 
