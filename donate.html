@@ -28,34 +28,23 @@ title: Donate
 <p id="donate" style="margin-top:4rem;"><strong>Whatever your choice is, choose a tab and get going.</strong></p>
 
 <ul class="tabs" data-tabs="" id="donations">
-  <li class="tabs-title is-active"><a href="#single or monthly" aria-selected="true">Single or Monthly Donation</a></li>
+  <li class="tabs-title is-active"><a href="#single or monthly" aria-selected="true">One-off or Monthly Donation</a></li>
   <li class="tabs-title"><a data-tabs-target="offline" href="#offline">Offline Donation</a></li>
 </ul>
 
 <div class="tabs-content" data-tabs-content="donations">
-  <div class="tabs-panel is-active" id="single or monthly">
-    <h3>Just a one-off donation</h3>
+  <div class="tabs-panel is-active" id="one-off or monthly">
+    <h3>One-off or Monthly Donations</h3>
     <div class="grid-x">
       <div class="cell medium-auto">
-        <p>If you would like to make a one-off donation or donate monthly, you'll be directed to our CAF Donate page. Select how often you'd like to donate and amount you wish to donate and follow the instructions provided. All card payment methods are accepted, along with PayPal for single donations. Monthly donations must be via direct debit. If you wish to provide a donation via cheque, cash or standing order go to Offline Donation tab.</p>
+        <p>If you would like to make a one-off donation or donate monthly, you'll be directed to our CAF Donate page. Select how often you'd like to donate and amount you wish to donate and follow the instructions provided. CAF Donate accepts all card payment methods, along with PayPal for single donations. CAF Donate only accepts monthly donations via direct debit. If you wish to provide a donation via cheque, cash or standing order go to Offline Donation tab.</p>
       </div>
       <div class="cell medium-shrink">
-        <a title="Link opens in a new window" href="https://cafdonate.cafonline.org/17999;frequencyType=S" target="_blank" rel="noopener noreferrer">
-          <img src="{{ site.url }}{{ site.baseurl }}/assets/images/261x88_donate.png" alt="Make a donation using Virgin Money Giving" border="0">
-        </a>
-      </div>
-    </div>
-  </div>
-  <div class="tabs-panel" id="monthly">
-    <h3>Donate little and often</h3>
-    <div class="grid-x">
-      <div class="cell medium-auto">
-        <p>Monthly donations can be set up on our Virgin Money Giving page. Select the amount you wish to donate each month and follow the instructions provided. This method will create a subscription that will debit your account on a monthly basis starting from the creation of the subscription, and can be cancelled at any time. Alternatively, you can set up a standing order - see the Offline Donation tab for details.</p>
-      </div>
-      <div class="cell medium-shrink">
-        <a title="Link opens in a new window" href="https://uk.virginmoneygiving.com/fundraiser-web/donate/makeDonationForCharityDisplay.action?charityId=1005831&amp;frequencyType=M" target="_blank" rel="noopener noreferrer">
-          <img src="{{ site.url }}{{ site.baseurl }}/assets/images/261x88_donate.png" alt="Make a donation using Virgin Money Giving" border="0">
-        </a>
+<div id="CAFDonateWidgetContainer"></div>
+<script type="text/javascript">
+var caf_BeneficiaryCampaignId=17999;
+document.write(unescape('%3Cscript id="CAFDonateWidgetLoader_script" src="https://cafdonate.cafonline.org/js/CAF.DonateWidgetLoader_script.js" type="text/javascript"%3E%3C/script%3E'));
+</script>
       </div>
     </div>
   </div>
