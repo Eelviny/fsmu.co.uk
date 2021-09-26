@@ -107,9 +107,9 @@ The commitment of Friend's of St. Michael's is to continue to support this remar
 
 ###### _If you are a regular giver, the personal data FSMU shall process and store shall be your name, email address and address, if given._
 
-###### _If you provide a donation via Virgin Money Giving, FSMU shall only be provided your name, date of birth, address, telephone number and email address so we have the correct records for Gift Aid purposes._
+###### _If you previously provided a donation via Virgin Money Giving or now provide a donation via CAF Donate, FSMU shall only be provided your name, date of birth, address, telephone number and email address so we have the correct records for Gift Aid purposes. CAF's role in processing donations can be found here:_ [https://www.cafonline.org/charities/caf-donate/our-role-in-processing-donations](https://www.cafonline.org/charities/caf-donate/our-role-in-processing-donations "https://www.cafonline.org/charities/caf-donate/our-role-in-processing-donations")
 
-###### _You may provide to us directly or via the Virgin Money Giving website your consent to send you email communications about FSMU – such as details of our projects and newsletters. We will not send you these email communications unless you have consented to receiving them previously._
+###### _You may provide to us directly or via  CAF Donate your consent to send you email communications about FSMU – such as details of our projects and newsletters. We will not send you these email communications unless you have consented to receiving them previously._
 
 ###### _In the event that you choose to visit St Michael’s and the local community and participate in any of the projects, FSMU may share details of your participation in those projects in its newsletters and on its website. These details may include biographical details about yourself and photographs. FSMU shall only share these details where you have provided your consent to do so._
 
